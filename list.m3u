@@ -1273,6 +1273,8 @@ http://clubtv.link/s23s/phpcode/android1.php?c=5&token=tecnotokenplustv&f=.m3u8|
 #EXTINF:-1 group-title="MÉXICO" , Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="MÉXICO", Vix JaJaJa
+http://clubtv.link/s23s/phpcode/android1.php?c=1586&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="https://mxplus.tv/images/roku/tv-migrante.jpg" group-title="MÉXICO",TV Migrante
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1795049700.m3u8
@@ -1282,10 +1284,6 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
 #EXTINF:-1 group-title="MÉXICO" tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png", Alcance TV
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CARIS" tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png", Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="TV PREMIUM", Tooncast 1
 http://clubtv.link/s23s/phpcode/android1.php?c=95&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
@@ -1303,25 +1301,25 @@ http://clubtv.link/s23s/phpcode/android1.php?c=11&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="CARIS", Cartoonito HD
 http://clubtv.link/s23s/phpcode/android1.php?c=824&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png" group-title="CARIS", Nick Jr
-http://clubtv.link/s23s/phpcode/android1.php?c=646&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="CARIS", Nick Jr
+http://clubtv.link/s23s/phpcode/android1.php?c=79&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="CARIS", Nick 1
 http://clubtv.link/s23s/phpcode/android1.php?c=78&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="CARIS", Nick 1 HD
 http://clubtv.link/s23s/phpcode/android1.php?c=645&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="CARIS", Nick 2
 http://clubtv.link/s23s/phpcode/android1.php?c=184&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="CARIS", Nick Teen
-http://clubtv.link/s23s/phpcode/android1.php?c=79&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png" group-title="CARIS", Teen Nick
+http://clubtv.link/s23s/phpcode/android1.php?c=646&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="CARIS", Nick Toons USA
 http://clubtv.link/s23s/phpcode/android1.php?c=80&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="CARIS", Vix JaJaJa
-http://clubtv.link/s23s/phpcode/android1.php?c=1586&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="CARIS", Discovery Kids
 http://clubtv.link/s23s/phpcode/android1.php?c=25&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="CARIS", Discovery Kids HD
 http://clubtv.link/s23s/phpcode/android1.php?c=641&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
+#EXTINF:-1 group-title="CARIS" tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png", Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png", AnimeStation
 https://xhateaec.com:8800/hls/zenitsurage/zenitsurage/8a102fcf75f3797d2b1abe3b1cad04c0/index.m3u8
