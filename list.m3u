@@ -1294,24 +1294,24 @@ http://clubtv.link/s23s/phpcode/android1.php?c=774&token=tecnotokenplustv&f=.m3u
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="CARIS", Cartoon Network 1
 http://clubtv.link/s23s/phpcode/android1.php?c=17&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="CARIS", Cartoon Network 2
-http://clubtv.link/s23s/phpcode/android1.php?c=737&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="CARIS", Cartoon Network HD
+http://clubtv.link/s23s/phpcode/android1.php?c=737&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="CARIS", Cartoonito 1
 http://clubtv.link/s23s/phpcode/android1.php?c=637&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="CARIS", Cartoonito
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="CARIS", Cartoonito 2
 http://clubtv.link/s23s/phpcode/android1.php?c=11&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="CARIS", Cartoonito HD
 http://clubtv.link/s23s/phpcode/android1.php?c=824&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="CARIS", Nick 1
-http://clubtv.link/s23s/phpcode/android1.php?c=78&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="CARIS", Nickelodeon
-http://clubtv.link/s23s/phpcode/android1.php?c=184&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png" group-title="CARIS", Nick Jr
 http://clubtv.link/s23s/phpcode/android1.php?c=646&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="CARIS", Nick 1
+http://clubtv.link/s23s/phpcode/android1.php?c=78&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="CARIS", Nick 1 HD
 http://clubtv.link/s23s/phpcode/android1.php?c=645&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="CARIS", Nick Jr
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="CARIS", Nick 2
+http://clubtv.link/s23s/phpcode/android1.php?c=184&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="CARIS", Nick Teen
 http://clubtv.link/s23s/phpcode/android1.php?c=79&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="CARIS", Nick Toons USA
 http://clubtv.link/s23s/phpcode/android1.php?c=80&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
