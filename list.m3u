@@ -81,7 +81,7 @@ http://clubtv.link/s23s/phpcode/android1.php?c=651&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="MÉXICO", Distrito Comedia
 http://clubtv.link/s23s/phpcode/android1.php?c=32&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="MÉXICO", Vix JaJaJa
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/vix.png" group-title="MÉXICO", Vix JaJaJa
 http://clubtv.link/s23s/phpcode/android1.php?c=1586&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="MÉXICO", Estrella TV
