@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="MÉXICO", Azteca Uno 2
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="MÉXICO", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
