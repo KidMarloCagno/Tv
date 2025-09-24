@@ -308,8 +308,6 @@ http://clubtv.link/s23s/phpcode/android1.php?c=45&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/s23s/phpcode/android1.php?c=489&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="PELIS", TNT HD
 http://clubtv.link/s23s/phpcode/android1.php?c=500&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="PELIS", TNT HD (ES)
-http://clubtv.link/s23s/phpcode/android1.php?c=982&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="PELIS", Universal Studio
 http://clubtv.link/s23s/phpcode/android1.php?c=830&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="PELIS", Cinecanal ᵸᴰ
@@ -567,6 +565,8 @@ http://clubtv.link/s23s/phpcode/android1.php?c=327&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=102&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="TV PREMIUM", Warner Channel HD
 http://clubtv.link/s23s/phpcode/android1.php?c=503&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="TV PREMIUM", Warner Channel HD (ES)
+http://clubtv.link/s23s/phpcode/android1.php?c=982&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="TV PREMIUM", WWE Network
 http://clubtv.link/s23s/phpcode/android1.php?c=276&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
