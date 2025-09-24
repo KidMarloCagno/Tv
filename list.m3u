@@ -34,10 +34,6 @@ http://clubtv.link/s23s/phpcode/android1.php?c=713&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=714&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="SPORTS", BeinSports
-http://clubtv.link/s23s/phpcode/android1.php?c=376&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="SPORTS", Claro Sports Colombia
 http://clubtv.link/s23s/phpcode/android1.php?c=328&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
@@ -64,6 +60,30 @@ http://clubtv.link/s23s/phpcode/android1.php?c=54&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="SPORTS", Fox Sports Premium
 http://clubtv.link/s23s/phpcode/android1.php?c=512&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="SPORTS", ESPN
+http://clubtv.link/s23s/phpcode/android1.php?c=34&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="SPORTS", ESPN 2 Arg
+http://clubtv.link/s23s/phpcode/android1.php?c=35&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="SPORTS", ESPN 2 Col
+http://clubtv.link/s23s/phpcode/android1.php?c=484&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="SPORTS", ESPN 2 Mx
+http://clubtv.link/s23s/phpcode/android1.php?c=531&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="SPORTS", ESPN 3 Arg
+http://clubtv.link/s23s/phpcode/android1.php?c=485&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="SPORTS", ESPN 1 Arg
+http://clubtv.link/s23s/phpcode/android1.php?c=486&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="SPORTS", ESPN Mx
+http://clubtv.link/s23s/phpcode/android1.php?c=530&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="SPORTS", ESPN 4 Arg
+http://clubtv.link/s23s/phpcode/android1.php?c=37&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="SPORTS", ESPN Premium Arg
+http://clubtv.link/s23s/phpcode/android1.php?c=487&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="SPORTS", ESPN Premium Arg HD
+http://clubtv.link/s23s/phpcode/android1.php?c=952&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="SPORTS", BeinSports
+http://clubtv.link/s23s/phpcode/android1.php?c=376&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="SPORTS", DSports 1
 http://clubtv.link/s23s/phpcode/android1.php?c=259&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="SPORTS", DSports 2 HD
@@ -72,6 +92,9 @@ http://clubtv.link/s23s/phpcode/android1.php?c=978&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=974&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvplus.png" group-title="SPORTS", DSports +
 http://clubtv.link/s23s/phpcode/android1.php?c=935&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="SPORTS", El Canal Del Futbol
+http://clubtv.link/s23s/phpcode/android1.php?c=892&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", Canal Uno (Colombia)
 http://clubtv.link/s23s/phpcode/android1.php?c=369&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
@@ -135,10 +158,6 @@ http://clubtv.link/s23s/phpcode/android1.php?c=719&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="TV PREMIUM", Comedy Central ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=480&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", DataFx (Colombia)
-http://clubtv.link/s23s/phpcode/android1.php?c=21&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png"  group-title="TV PREMIUM", DHE
 http://clubtv.link/s23s/phpcode/android1.php?c=844&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
@@ -168,50 +187,29 @@ http://clubtv.link/s23s/phpcode/android1.php?c=187&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=923&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", Dw
+#EXTINF:-1  tvg-logo="http://x.playerlatino.live/e.png" group-title="TV PREMIUM", E! 1
 http://clubtv.link/s23s/phpcode/android1.php?c=33&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="TV PREMIUM", E!
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="TV PREMIUM", E! 2
 http://clubtv.link/s23s/phpcode/android1.php?c=483&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="TV PREMIUM", Ecuavisa
 http://clubtv.link/s23s/phpcode/android1.php?c=319&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="TV PREMIUM", El 13 Argentina
-http://clubtv.link/s23s/phpcode/android1.php?c=239&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="TV PREMIUM", El Canal Del Futbol
-http://clubtv.link/s23s/phpcode/android1.php?c=892&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="TV PREMIUM", El Gourmet
 http://clubtv.link/s23s/phpcode/android1.php?c=157&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="TV PREMIUM", El Gourmet
-http://clubtv.link/s23s/phpcode/android1.php?c=791&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="TV PREMIUM", El Nueve
 http://clubtv.link/s23s/phpcode/android1.php?c=772&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="TV PREMIUM", El Nueve Argentina
-http://clubtv.link/s23s/phpcode/android1.php?c=525&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png group-title="TV PREMIUM", El Trece Argentina
+http://clubtv.link/s23s/phpcode/android1.php?c=767&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="TV PREMIUM", El Trece
 http://clubtv.link/s23s/phpcode/android1.php?c=765&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="TV PREMIUM", El Trece
-http://clubtv.link/s23s/phpcode/android1.php?c=767&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="TV PREMIUM", El Trece
 http://clubtv.link/s23s/phpcode/android1.php?c=1578&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", Encuentro
-http://clubtv.link/s23s/phpcode/android1.php?c=34&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="TV PREMIUM", ESPN 2
-http://clubtv.link/s23s/phpcode/android1.php?c=35&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="TV PREMIUM", ESPN 2 ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=484&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="TV PREMIUM", ESPN 2 ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=531&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="TV PREMIUM", ESPN 2 Mx ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=485&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="TV PREMIUM", ESPN 3 ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=486&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="TV PREMIUM", ESPN ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=530&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="TV PREMIUM", ESPN MX ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=37&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="TV PREMIUM", ESPN Plus ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=487&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="TV PREMIUM", ESPN Premium ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=952&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/europa.png" group-title="TV PREMIUM", Europa Europa
 http://clubtv.link/s23s/phpcode/android1.php?c=957&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
@@ -1088,6 +1086,8 @@ http://clubtv.link/s23s/phpcode/android1.php?c=427&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=670&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aljazeera.png" group-title="CARIS", Alf 24/7
 http://clubtv.link/s23s/phpcode/android1.php?c=426&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="CARIS", ToonCast 24/7
+http://clubtv.link/s23s/phpcode/android1.php?c=525&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png", AnimeStation
 https://xhateaec.com:8800/hls/zenitsurage/zenitsurage/8a102fcf75f3797d2b1abe3b1cad04c0/index.m3u8
