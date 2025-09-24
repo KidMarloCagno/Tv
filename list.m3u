@@ -114,16 +114,16 @@ http://clubtv.link/s23s/phpcode/android1.php?c=481&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dpeliculaplus.png" group-title="MÉXICO", De Pelicula Plus
 http://clubtv.link/s23s/phpcode/android1.php?c=1544&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1 tvg-logo="https://www.mpm.com.mx/images/logotipos/heraldo-radio-1.jpg" group-title="MÉXICO", Heraldo Televisión
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/7hlsu6FzRsGkArSgHj6bu/ffe4663f174bc19220d98f998872148d/Heraldo_tv.png" group-title="MÉXICO", Heraldo Televisión
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 group-title="MÉXICO",  Canal Once
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/canalonce.png" group-title="MÉXICO",  Canal Once
 http://clubtv.link/s23s/phpcode/lista1.php?c=a0bq&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 group-title="MÉXICO", Once Niñas y Niños
+#EXTINF:-1 tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2025/09/Logo_ONN-3D.png" group-title="MÉXICO", Once Niñas y Niños
 http://clubtv.link/s23s/phpcode/lista1.php?c=a0nr&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 group-title="MÉXICO",Canal 14
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="MÉXICO",Canal 14
 http://clubtv.link/s23s/phpcode/lista1.php?c=a0ax&token=tecnotokenplustv&f=.m3u8
 
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="MÉXICO",Canal 14.2
