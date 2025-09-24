@@ -37,16 +37,6 @@ http://clubtv.link/s23s/phpcode/android1.php?c=714&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="SPORTS", Claro Sports Colombia
 http://clubtv.link/s23s/phpcode/android1.php?c=328&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="SPORTS", Fox Sports 1 Arg
-http://clubtv.link/s23s/phpcode/android1.php?c=52&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="SPORTS", Fox Sports 1 Arg HD
-http://clubtv.link/s23s/phpcode/android1.php?c=769&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="SPORTS", Fox Sports 2 Arg
-http://clubtv.link/s23s/phpcode/android1.php?c=53&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="SPORTS", Fox Sports 2 Arg HD
-http://clubtv.link/s23s/phpcode/android1.php?c=494&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="SPORTS", Fox Sports 3 Arg
-http://clubtv.link/s23s/phpcode/android1.php?c=511&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="SPORTS", Fox Sports 1 MX
 http://clubtv.link/s23s/phpcode/android1.php?c=527&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="SPORTS", Fox Sports 1 MX HD
@@ -60,23 +50,32 @@ http://clubtv.link/s23s/phpcode/android1.php?c=54&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="SPORTS", Fox Sports Premium
 http://clubtv.link/s23s/phpcode/android1.php?c=512&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="SPORTS", ESPN
-http://clubtv.link/s23s/phpcode/android1.php?c=34&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="SPORTS", ESPN 2 Arg
-http://clubtv.link/s23s/phpcode/android1.php?c=35&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="SPORTS", ESPN 2 Col
-http://clubtv.link/s23s/phpcode/android1.php?c=484&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="SPORTS", Fox Sports 1 Arg
+http://clubtv.link/s23s/phpcode/android1.php?c=52&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="SPORTS", Fox Sports 1 Arg HD
+http://clubtv.link/s23s/phpcode/android1.php?c=769&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="SPORTS", Fox Sports 2 Arg
+http://clubtv.link/s23s/phpcode/android1.php?c=53&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="SPORTS", Fox Sports 2 Arg HD
+http://clubtv.link/s23s/phpcode/android1.php?c=494&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="SPORTS", Fox Sports 3 Arg
+http://clubtv.link/s23s/phpcode/android1.php?c=511&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn1.png" group-title="SPORTS", ESPN 1 Mx
+http://clubtv.link/s23s/phpcode/android1.php?c=530&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="SPORTS", ESPN 2 Mx
 http://clubtv.link/s23s/phpcode/android1.php?c=531&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="SPORTS", ESPN 3 Arg
-http://clubtv.link/s23s/phpcode/android1.php?c=485&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="SPORTS", ESPN 1 Arg
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn1.png" group-title="SPORTS", ESPN 1 Arg
+http://clubtv.link/s23s/phpcode/android1.php?c=34&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn1.png" group-title="SPORTS", ESPN 1 Arg
 http://clubtv.link/s23s/phpcode/android1.php?c=486&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="SPORTS", ESPN Mx
-http://clubtv.link/s23s/phpcode/android1.php?c=530&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="SPORTS", ESPN 2 Arg
+http://clubtv.link/s23s/phpcode/android1.php?c=35&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="SPORTS", ESPN 3 Arg
+http://clubtv.link/s23s/phpcode/android1.php?c=485&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="SPORTS", ESPN 4 Arg
 http://clubtv.link/s23s/phpcode/android1.php?c=37&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="SPORTS", ESPN Premium Arg
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="SPORTS", ESPN Premium Arg
 http://clubtv.link/s23s/phpcode/android1.php?c=487&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="SPORTS", ESPN Premium Arg HD
 http://clubtv.link/s23s/phpcode/android1.php?c=952&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
