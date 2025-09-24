@@ -132,7 +132,7 @@ https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="MÉXICO",Capital 21
 https://s5.mexside.net:1936/respaldo/respaldo/chunklist_w390601932.m3u8
 
-#EXTINF:-1 group-title="MÉXICO", Canal 22
+#EXTINF:-1 tvg-logo="https://manualdeimagen.canal22.org.mx/img/bn.png" group-title="MÉXICO", Canal 22
 http://clubtv.link/s23s/phpcode/lista1.php?c=a0d7&token=tecnotokenplustv&f=.m3u8
 
 #EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22.1" tvg-logo="https://manualdeimagen.canal22.org.mx/img/bn.png" group-title="MÉXICO",Canal 22.1
@@ -141,7 +141,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="MÉXICO",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="MÉXICO", MX Nuestro Cine 2
+#EXTINF:-1 tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="MÉXICO", MX Nuestro Cine 2
 http://clubtv.link/s23s/phpcode/lista1.php?c=a0nu&token=tecnotokenplustv&f=.m3u8
 
 #EXTINF:-1 group-title="MÉXICO" tvg-id="652" tvg-name="Mexiquense TV" tvg-logo="https://cdn.m3u.cl/logo/652_Mexiquense_TV.png", Mexiquense Tv
