@@ -284,8 +284,6 @@ http://clubtv.link/s23s/phpcode/android1.php?c=702&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=694&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="PELIS", Cine Infantil Sagas ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=703&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="PELIS", Cine Latino
-http://clubtv.link/s23s/phpcode/android1.php?c=697&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="PELIS", Cine Marvel ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=701&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="PELIS", Cine Romance
@@ -300,6 +298,8 @@ http://clubtv.link/s23s/phpcode/android1.php?c=704&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=688&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="PELIS", Cine Zombis ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=917&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="PELIS", Cine Latino
+http://clubtv.link/s23s/phpcode/android1.php?c=697&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3cine.png" group-title="PELIS", A3Cine
 http://clubtv.link/s23s/phpcode/android1.php?c=945&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="PELIS", Star Channel
