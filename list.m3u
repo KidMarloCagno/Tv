@@ -19,8 +19,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="MÉXICO", Las Estrellas 3
 http://clubtv.link/s23s/phpcode/android1.php?c=411&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="MÉXICO", Las Estrellas 4
-http://clubtv.link/s23s/phpcode/android1.php?c=736&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="MÉXICO", Las Estrellas HD
 http://clubtv.link/s23s/phpcode/android1.php?c=636&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
@@ -59,12 +57,10 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="MÉXICO" tvg-id="668" tvg-name="Multimedios Guadalajara" tvg-logo="https://cdn.m3u.cl/logo/668_Multimedios_Guadalajara.png", Multimedios Guadalajara
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 group-title="MÉXICO" tvg-id="669" tvg-name="Multimedios Laguna" tvg-logo="https://cdn.m3u.cl/logo/669_Multimedios_Laguna.png", Multimedios Laguna
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDJUAREZ" tvg-logo="https://cdn.m3u.cl/logo/670_Multimedios_Monterrey.png" group-title="MÉXICO", Multimedios Juarez
 http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 
-#EXTINF:-1 group-title="MÉXICO" , Azteca 7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="MÉXICO" , Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="MÉXICO", Azteca 7 HD
 http://clubtv.link/s23s/phpcode/android1.php?c=635&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
@@ -74,12 +70,12 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="MÉXICO", Azteca A+ 2
 http://clubtv.link/s23s/phpcode/android1.php?c=406&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1 group-title="MÉXICO",  Milenio TV
+#EXTINF:-1 group-title="MÉXICO" tvg-logo="https://x.playerlatino.live/milenio.png",  Milenio TV
 http://clubtv.link/s23s/phpcode/lista1.php?c=a0dm&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="MÉXICO", Gala Tv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="MÉXICO", Gala TV
 http://clubtv.link/s23s/phpcode/android1.php?c=56&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="MÉXICO", Gala Tv HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="MÉXICO", Gala TV HD
 http://clubtv.link/s23s/phpcode/android1.php?c=651&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="MÉXICO", Distrito Comedia
@@ -88,7 +84,7 @@ http://clubtv.link/s23s/phpcode/android1.php?c=32&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="MÉXICO", Vix JaJaJa
 http://clubtv.link/s23s/phpcode/android1.php?c=1586&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1 group-title="MÉXICO" , Estrella TV
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="MÉXICO", Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="MÉXICO", Estrella TV HD
 http://clubtv.link/s23s/phpcode/android1.php?c=177&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
@@ -99,7 +95,7 @@ http://clubtv.link/s23s/phpcode/android1.php?c=98&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/s23s/phpcode/android1.php?c=653&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/unimas.png" group-title="MÉXICO", UniMas
 http://clubtv.link/s23s/phpcode/android1.php?c=144&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="MÉXICO", Univision Tlnovelas
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" group-title="MÉXICO", Univision Tlnovelas
 http://clubtv.link/s23s/phpcode/android1.php?c=413&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="MÉXICO", Telemundo
@@ -118,7 +114,7 @@ http://clubtv.link/s23s/phpcode/android1.php?c=481&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dpeliculaplus.png" group-title="MÉXICO", De Pelicula Plus
 http://clubtv.link/s23s/phpcode/android1.php?c=1544&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1 group-title="MÉXICO", Heraldo Televisión
+#EXTINF:-1 tvg-logo="https://www.mpm.com.mx/images/logotipos/heraldo-radio-1.jpg" group-title="MÉXICO", Heraldo Televisión
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 group-title="MÉXICO",  Canal Once
