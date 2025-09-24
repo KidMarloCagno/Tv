@@ -42,27 +42,27 @@ http://clubtv.link/s23s/phpcode/android1.php?c=376&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="SPORTS", Claro Sports Colombia
 http://clubtv.link/s23s/phpcode/android1.php?c=328&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxnews.png" group-title="TV PREMIUM", Fox Sports 1 Arg
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxnews.png" group-title="SPORTS", Fox Sports 1 Arg
 http://clubtv.link/s23s/phpcode/android1.php?c=52&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="TV PREMIUM", Fox Sports 1 Arg HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="SPORTS", Fox Sports 1 Arg HD
 http://clubtv.link/s23s/phpcode/android1.php?c=769&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="TV PREMIUM", Fox Sports 2 Arg
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="SPORTS", Fox Sports 2 Arg
 http://clubtv.link/s23s/phpcode/android1.php?c=53&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="TV PREMIUM", Fox Sports 2 Arg HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="SPORTS", Fox Sports 2 Arg HD
 http://clubtv.link/s23s/phpcode/android1.php?c=494&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="TV PREMIUM", Fox Sports 3 Arg
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="SPORTS", Fox Sports 3 Arg
 http://clubtv.link/s23s/phpcode/android1.php?c=511&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="TV PREMIUM", Fox Sports 1 MX
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="SPORTS", Fox Sports 1 MX
 http://clubtv.link/s23s/phpcode/android1.php?c=527&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="TV PREMIUM", Fox Sports 1 MX HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="SPORTS", Fox Sports 1 MX HD
 http://clubtv.link/s23s/phpcode/android1.php?c=748&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="TV PREMIUM", Fox Sports 2 MX
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="SPORTS", Fox Sports 2 MX
 http://clubtv.link/s23s/phpcode/android1.php?c=528&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="TV PREMIUM", Fox Sports 3 MX
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="SPORTS", Fox Sports 3 MX
 http://clubtv.link/s23s/phpcode/android1.php?c=839&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="TV PREMIUM", Fox Sports 3 MX HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="SPORTS", Fox Sports 3 MX HD
 http://clubtv.link/s23s/phpcode/android1.php?c=54&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="TV PREMIUM", Fox Sports Premium
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="SPORTS", Fox Sports Premium
 http://clubtv.link/s23s/phpcode/android1.php?c=512&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", Canal Uno (Colombia)
@@ -1097,9 +1097,6 @@ http://clubtv.link/s23s/phpcode/android1.php?c=641&token=tecnotokenplustv&f=.m3u
 
 #EXTINF:-1 group-title="CARIS" tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="CARIS", Baby TV
-http://clubtv.link/s23s/phpcode/android1.php?c=7&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png", AnimeStation
