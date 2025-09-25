@@ -381,7 +381,7 @@ http://clubtv.link/s23s/phpcode/android1.php?c=3&token=tecnotokenplustv&f=.m3u8|
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="TV PREMIUM", Animal Planet ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=633&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png group-title="TV PREMIUM", AXN
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="TV PREMIUM", AXN
 http://clubtv.link/s23s/phpcode/android1.php?c=146&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="TV PREMIUM", AXN ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=476&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
