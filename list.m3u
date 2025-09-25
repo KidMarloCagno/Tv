@@ -106,7 +106,10 @@ http://clubtv.link/s23s/phpcode/android1.php?c=660&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=171&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="MÉXICO", TNT Novelas ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=831&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="TV PREMIUM", Wapa PR
+http://clubtv.link/s23s/phpcode/android1.php?c=327&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="MÉXICO", Pasiones
+http://clubtv.link/s23s/phpcode/android1.php?c=755&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="MÉXICO", De Pelicula
 http://clubtv.link/s23s/phpcode/android1.php?c=1545&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="MÉXICO", De Pelicula ᵸᴰ
@@ -160,6 +163,10 @@ http://clubtv.link/s23s/phpcode/android1.php?c=166&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=834&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azmundo.png" group-title="MÉXICO", Az Mundo
 http://clubtv.link/s23s/phpcode/android1.php?c=5&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="MÉXICO", El Gourmet
+http://clubtv.link/s23s/phpcode/android1.php?c=157&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png" group-title="MÉXICO", Food Network
+http://clubtv.link/s23s/phpcode/android1.php?c=961&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="https://mxplus.tv/images/roku/tv-migrante.jpg" group-title="MÉXICO",TV Migrante
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1795049700.m3u8
@@ -297,28 +304,83 @@ http://clubtv.link/s23s/phpcode/android1.php?c=479&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="PELIS", Cinemax ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=638&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="TV INTER", America TV
+http://clubtv.link/s23s/phpcode/android1.php?c=780&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="TV INTER", Antena 3
+http://clubtv.link/s23s/phpcode/android1.php?c=298&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="TV INTER", Caracol
+http://clubtv.link/s23s/phpcode/android1.php?c=391&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="TV INTER", Caracol 2
+http://clubtv.link/s23s/phpcode/android1.php?c=290&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" group-title="TV INTER", CHV Chilevision
+http://clubtv.link/s23s/phpcode/android1.php?c=990&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="TV INTER", Ecuavisa
+http://clubtv.link/s23s/phpcode/android1.php?c=319&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="TV INTER", El Nueve
+http://clubtv.link/s23s/phpcode/android1.php?c=772&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png group-title="TV INTER", El Trece Argentina
+http://clubtv.link/s23s/phpcode/android1.php?c=767&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="TV INTER", El Trece
+http://clubtv.link/s23s/phpcode/android1.php?c=765&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="TV INTER", El Trece 2
+http://clubtv.link/s23s/phpcode/android1.php?c=1578&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/europa.png" group-title="TV INTER", Europa Europa
+http://clubtv.link/s23s/phpcode/android1.php?c=957&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="TV INTER", Gamavision Ecuador
+http://clubtv.link/s23s/phpcode/android1.php?c=891&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="TV INTER", Hola TV
+http://clubtv.link/s23s/phpcode/android1.php?c=189&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="TV INTER", Mega
+http://clubtv.link/s23s/phpcode/android1.php?c=766&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="TV INTER", Movistar Accion ᵸᴰ
+http://clubtv.link/s23s/phpcode/android1.php?c=364&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="TV INTER", Movistar Comedia
+http://clubtv.link/s23s/phpcode/android1.php?c=370&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_estrenos.png" group-title="TV INTER", Movistar Estrenos ᵸᴰ
+http://clubtv.link/s23s/phpcode/android1.php?c=976&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_series.png" group-title="TV INTER", Movistar Hits
+http://clubtv.link/s23s/phpcode/android1.php?c=924&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbc.png" group-title="TV INTER", NBC ᵸᴰ
+http://clubtv.link/s23s/phpcode/android1.php?c=933&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="TV INTER", RCN
+http://clubtv.link/s23s/phpcode/android1.php?c=390&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/star.png" group-title="TV INTER", Star Channel ES
+http://clubtv.link/s23s/phpcode/android1.php?c=926&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/startve.png" group-title="TV INTER", Star TVE
+http://clubtv.link/s23s/phpcode/android1.php?c=944&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="TV INTER", TC Ecuador
+http://clubtv.link/s23s/phpcode/android1.php?c=885&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="TV INTER", Tele
+http://clubtv.link/s23s/phpcode/android1.php?c=778&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="TV INTER", TeleAmazonas
+http://clubtv.link/s23s/phpcode/android1.php?c=320&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="" group-title="TV INTER", Teleantioquia (Colombia)
+http://clubtv.link/s23s/phpcode/android1.php?c=922&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="TV INTER", Telefe
+http://clubtv.link/s23s/phpcode/android1.php?c=771&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvchile.png" group-title="TV INTER", TV Chile
+http://clubtv.link/s23s/phpcode/android1.php?c=1534&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" group-title="TV INTER", TVC Ecuador
+http://clubtv.link/s23s/phpcode/android1.php?c=776&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="TV PREMIUM", A&E
 http://clubtv.link/s23s/phpcode/android1.php?c=474&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="TV PREMIUM", A3Series
 http://clubtv.link/s23s/phpcode/android1.php?c=444&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aljazeera.png" group-title="TV PREMIUM", Al Jazeera
-http://clubtv.link/s23s/phpcode/android1.php?c=668&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="TV PREMIUM", AMC
 http://clubtv.link/s23s/phpcode/android1.php?c=183&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="TV PREMIUM", AMC+
 http://clubtv.link/s23s/phpcode/android1.php?c=981&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="TV PREMIUM", AMC ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=475&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="TV PREMIUM", America TV
-http://clubtv.link/s23s/phpcode/android1.php?c=780&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="TV PREMIUM", Animal Planet
 http://clubtv.link/s23s/phpcode/android1.php?c=3&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="TV PREMIUM", Animal Planet ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=633&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="TV PREMIUM", Antena 3
-http://clubtv.link/s23s/phpcode/android1.php?c=298&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png group-title="TV PREMIUM", AXN
 http://clubtv.link/s23s/phpcode/android1.php?c=146&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="TV PREMIUM", AXN ᵸᴰ
@@ -327,17 +389,6 @@ http://clubtv.link/s23s/phpcode/android1.php?c=476&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=713&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="TV PREMIUM", AXN Series (ES)
 http://clubtv.link/s23s/phpcode/android1.php?c=714&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", Canal Uno (Colombia)
-http://clubtv.link/s23s/phpcode/android1.php?c=369&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="TV PREMIUM", Caracol
-http://clubtv.link/s23s/phpcode/android1.php?c=391&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="TV PREMIUM", Caracol 2
-http://clubtv.link/s23s/phpcode/android1.php?c=290&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" group-title="TV PREMIUM", CHV Chilevision
-http://clubtv.link/s23s/phpcode/android1.php?c=990&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="TV PREMIUM", Comedy Central
 http://clubtv.link/s23s/phpcode/android1.php?c=135&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
@@ -345,7 +396,6 @@ http://clubtv.link/s23s/phpcode/android1.php?c=135&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=719&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="TV PREMIUM", Comedy Central ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=480&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png"  group-title="TV PREMIUM", DHE
 http://clubtv.link/s23s/phpcode/android1.php?c=844&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
@@ -373,51 +423,13 @@ http://clubtv.link/s23s/phpcode/android1.php?c=727&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="TV PREMIUM", Discovery World
 http://clubtv.link/s23s/phpcode/android1.php?c=187&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dmax.png" group-title="TV PREMIUM", DMax ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=923&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-
 #EXTINF:-1  tvg-logo="http://x.playerlatino.live/e.png" group-title="TV PREMIUM", E! 1
 http://clubtv.link/s23s/phpcode/android1.php?c=33&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="TV PREMIUM", E! 2
 http://clubtv.link/s23s/phpcode/android1.php?c=483&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="TV PREMIUM", Ecuavisa
-http://clubtv.link/s23s/phpcode/android1.php?c=319&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="TV PREMIUM", El Gourmet
-http://clubtv.link/s23s/phpcode/android1.php?c=157&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="TV PREMIUM", El Nueve
-http://clubtv.link/s23s/phpcode/android1.php?c=772&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png group-title="TV PREMIUM", El Trece Argentina
-http://clubtv.link/s23s/phpcode/android1.php?c=767&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="TV PREMIUM", El Trece
-http://clubtv.link/s23s/phpcode/android1.php?c=765&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="TV PREMIUM", El Trece
-http://clubtv.link/s23s/phpcode/android1.php?c=1578&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/europa.png" group-title="TV PREMIUM", Europa Europa
-http://clubtv.link/s23s/phpcode/android1.php?c=957&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png" group-title="TV PREMIUM", Food Network
-http://clubtv.link/s23s/phpcode/android1.php?c=961&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png" group-title="TV PREMIUM", DAZN
-http://clubtv.link/s23s/phpcode/android1.php?c=192&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="TV PREMIUM", Star Channel ES
-http://clubtv.link/s23s/phpcode/android1.php?c=926&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="TV PREMIUM", FX ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=495&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="TV PREMIUM", Gamavision
-http://clubtv.link/s23s/phpcode/android1.php?c=891&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="TV PREMIUM", Golden Premier 2
-http://clubtv.link/s23s/phpcode/android1.php?c=964&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="TV PREMIUM", HBO
 http://clubtv.link/s23s/phpcode/android1.php?c=62&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
@@ -434,7 +446,6 @@ http://clubtv.link/s23s/phpcode/android1.php?c=728&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="TV PREMIUM", HBO Plus
 http://clubtv.link/s23s/phpcode/android1.php?c=655&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="TV PREMIUM", History Channel
 http://clubtv.link/s23s/phpcode/android1.php?c=67&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="TV PREMIUM", History Channel ᵸᴰ
@@ -444,89 +455,35 @@ http://clubtv.link/s23s/phpcode/android1.php?c=718&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="TV PREMIUM", History Channel 2
 http://clubtv.link/s23s/phpcode/android1.php?c=61&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="TV PREMIUM", Hola TV
-http://clubtv.link/s23s/phpcode/android1.php?c=189&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="TV PREMIUM", HTV
-http://clubtv.link/s23s/phpcode/android1.php?c=66&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="TV PREMIUM", Lifetime
 http://clubtv.link/s23s/phpcode/android1.php?c=152&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="TV PREMIUM", Liga de Campeones 2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="TV PREMIUM", Mega
-http://clubtv.link/s23s/phpcode/android1.php?c=766&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="TV PREMIUM", Mega ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=784&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="TV PREMIUM", Movistar Accion ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=364&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="TV PREMIUM", Movistar Comedia
-http://clubtv.link/s23s/phpcode/android1.php?c=370&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_estrenos.png" group-title="TV PREMIUM", Movistar Estrenos ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=976&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_series.png" group-title="TV PREMIUM", Movistar Hits
-http://clubtv.link/s23s/phpcode/android1.php?c=924&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="TV PREMIUM", Nat Geo
 http://clubtv.link/s23s/phpcode/android1.php?c=76&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="TV PREMIUM", Nat Geo
 http://clubtv.link/s23s/phpcode/android1.php?c=644&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nbc.png" group-title="TV PREMIUM", NBC ᵸᴰ
-http://clubtv.link/s23s/phpcode/android1.php?c=933&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="TV PREMIUM", Paramount
 http://clubtv.link/s23s/phpcode/android1.php?c=647&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="TV PREMIUM", Pasiones
-http://clubtv.link/s23s/phpcode/android1.php?c=755&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="TV PREMIUM", RCN
-http://clubtv.link/s23s/phpcode/android1.php?c=390&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="TV PREMIUM", Sony
 http://clubtv.link/s23s/phpcode/android1.php?c=145&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="TV PREMIUM", Sony ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=498&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="TV PREMIUM", Space ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=499&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/startve.png" group-title="TV PREMIUM", Star TVE
-http://clubtv.link/s23s/phpcode/android1.php?c=944&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="TV PREMIUM", TC Ecuador
-http://clubtv.link/s23s/phpcode/android1.php?c=885&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="TV PREMIUM", Tele
-http://clubtv.link/s23s/phpcode/android1.php?c=778&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="TV PREMIUM", TeleAmazonas
-http://clubtv.link/s23s/phpcode/android1.php?c=320&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="" group-title="TV PREMIUM", Teleantioquia (Colombia)
-http://clubtv.link/s23s/phpcode/android1.php?c=922&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="TV PREMIUM", Telefe
-http://clubtv.link/s23s/phpcode/android1.php?c=771&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="TV PREMIUM", TLC
 http://clubtv.link/s23s/phpcode/android1.php?c=87&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="TV PREMIUM", TNT Series
 http://clubtv.link/s23s/phpcode/android1.php?c=90&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="TV PREMIUM", TNT Series ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=650&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvchile.png" group-title="TV PREMIUM", TV Chile
-http://clubtv.link/s23s/phpcode/android1.php?c=1534&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" group-title="TV PREMIUM", TVC Ecuador
-http://clubtv.link/s23s/phpcode/android1.php?c=776&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="TV PREMIUM", Universal Channel
 http://clubtv.link/s23s/phpcode/android1.php?c=137&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="TV PREMIUM", Universal Channel ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=902&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png" group-title="TV PREMIUM", Universal Comedy
@@ -541,8 +498,7 @@ http://clubtv.link/s23s/phpcode/android1.php?c=901&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=905&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png" group-title="TV PREMIUM", Universal Reallity ᵸᴰ
 http://clubtv.link/s23s/phpcode/android1.php?c=99&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="TV PREMIUM", Wapa PR
-http://clubtv.link/s23s/phpcode/android1.php?c=327&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="TV PREMIUM", Warner Channel
 http://clubtv.link/s23s/phpcode/android1.php?c=102&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="TV PREMIUM", Warner Channel ᵸᴰ
@@ -551,7 +507,6 @@ http://clubtv.link/s23s/phpcode/android1.php?c=503&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/s23s/phpcode/android1.php?c=982&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="TV PREMIUM", WWE Network
 http://clubtv.link/s23s/phpcode/android1.php?c=276&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
 
 
 #EXTINF:-1 group-title="MUSICA" tvg-id="1291" tvg-name="Voice Over Radio TV" tvg-logo="https://cdn.m3u.cl/logo/1291_Voice_Over_Radio_TV.png", Voice Over Radio TV
@@ -653,6 +608,8 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-id="981PearlFM.sx" tvg-logo="https://i.imgur.com/GY750xh.jpg" group-title="MUSICA",98.1 Pearl FM
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="MUSICA", HTV
+http://clubtv.link/s23s/phpcode/android1.php?c=66&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="https://imgur.com/h5FABgC.png" group-title="MUSICA",La Bocina Latina
 http://clubtv.link/s23s/phpcode/distro.php?c=la-bocina-latina
 #EXTINF:-1 tvg-logo="https://imgur.com/yc3nhlP.png" group-title="MUSICA",Trace Latina
@@ -825,7 +782,6 @@ https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="1010" tvg-name="UNaM Transmedia" tvg-logo="https://cdn.m3u.cl/logo/1010_UNaM_Transmedia.png", UNaM Transmedia
 http://192.100.186.53:8090/hls/live.stream.m3u8
-
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://cdn.m3u.cl/logo/1304_Magic_Kids.png", Magic Kids
 https://ssh101-fl.bozztv.com/ssh101/magic2019/index.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://cdn.m3u.cl/logo/206_Paka_Paka.png", Paka Paka
@@ -918,7 +874,6 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 https://canalsj.kozow.com/canal40/index.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="778" tvg-name="Canal 5 Pico Truncado" tvg-logo="https://cdn.m3u.cl/logo/778_Canal_5_Pico_Truncado.png", Canal 5 Pico Truncado
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="1138" tvg-name="Canal 5 Tucuman" tvg-logo="https://cdn.m3u.cl/logo/1138_Canal_5_Tucuman.png", Canal 5 Tucuman
 https://videohd.live:19360/8090/8090.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-id="232" tvg-name="Canal 50 Morteros" tvg-logo="https://cdn.m3u.cl/logo/232_Canal_50_Morteros.png", Canal 50 Morteros
