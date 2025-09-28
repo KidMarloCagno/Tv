@@ -248,11 +248,8 @@ http://clubtv.link/s23s/phpcode/android1.php?c=676&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="" group-title="CARIS", Two And a Half Men 24/7
 http://clubtv.link/s23s/phpcode/android1.php?c=675&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
-#EXTINF:-1  tvg-logo="https://scontent.fccp1-1.fna.fbcdn.net/v/t39.30808-6/263930923_490937922602303_7522540263382732857_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=csTB-80flw8Q7kNvgEOvOo6&_nc_ht=scontent.fccp1-1.fna&oh=00_AYC1JFnheKNqr0Mdz02Dj7um6UB_n0fa9xPgBYz4tMTgBA&oe=6668A033" group-title="CARIS", Malcolm 24/7
-http://ultrapremium.cloud:8080/945348216tv1/r60x58/755
-
-#EXTINF:-1  tvg-logo="https://www.okchicas.com/wp-content/uploads/2020/08/Malcom-el-de-en-medio.jpg" group-title="CARIS", Malcolm 24/7 HD
-http://tv.proyectox.vip:8080/arpilorena1/EhKM8yKqAS/37750
+#EXTINF:-1  group-title="CARIS", 24/7 Malcolm in the Middle
+http://zeuspro.xyz:8080/L0vjEGB3MC/GF8Nqw8gZ5/37750
 
 #EXTINF:-1  tvg-logo="https://fotografias.lasexta.com/clipping/cmsimages01/2022/04/19/23DC124E-BFF5-4B16-8824-DE16504D1A19/simpson-series-animadas-mas-longevas-television-nacio-casualidad_104.jpg?crop=576,576,x225,y0&width=1200&height=1200&optimize=low&format=webply" group-title="CARIS", Los Simpson 24/7
 http://tv.soccerplus.link:8000/bross2023/73js8t3ge63/34308
