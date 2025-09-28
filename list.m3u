@@ -248,6 +248,9 @@ http://clubtv.link/s23s/phpcode/android1.php?c=676&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="" group-title="CARIS", Two And a Half Men 24/7
 http://clubtv.link/s23s/phpcode/android1.php?c=675&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/54/cc/c6/54ccc6489166a7b5deeca24728f98f67-movies-free-in-the-middle.jpg" group-title="CARIS",MALCOM 
+http://51.159.104.29:8080/malcom/index.m3u8
+
 #EXTINF:-1  group-title="CARIS", 24/7 Malcolm in the Middle
 http://zeuspro.xyz:8080/L0vjEGB3MC/GF8Nqw8gZ5/37750
 
