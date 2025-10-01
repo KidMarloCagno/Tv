@@ -247,21 +247,11 @@ http://clubtv.link/01oct/phpcode/android1.php?c=1577&token=tecnotokenplustv&f=.m
 http://clubtv.link/01oct/phpcode/android1.php?c=676&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="" group-title="CARIS", Two And a Half Men 24/7
 http://clubtv.link/01oct/phpcode/android1.php?c=675&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 group-title="CARIS" tvg-logo="https://imgur.com/52T80pI.png",Los Simpson 24/7
+http://clubtv.link/01oct/phpcode/24.php?c=simpson_maniahd193&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/54/cc/c6/54ccc6489166a7b5deeca24728f98f67-movies-free-in-the-middle.jpg" group-title="CARIS",MALCOM 
-http://51.159.104.29:8080/malcom/index.m3u8
 
-#EXTINF:-1  group-title="CARIS", 24/7 Malcolm in the Middle
-http://zeuspro.xyz:8080/L0vjEGB3MC/GF8Nqw8gZ5/37750
 
-#EXTINF:-1  tvg-logo="https://fotografias.lasexta.com/clipping/cmsimages01/2022/04/19/23DC124E-BFF5-4B16-8824-DE16504D1A19/simpson-series-animadas-mas-longevas-television-nacio-casualidad_104.jpg?crop=576,576,x225,y0&width=1200&height=1200&optimize=low&format=webply" group-title="CARIS", Los Simpson 24/7
-http://tv.soccerplus.link:8000/bross2023/73js8t3ge63/34308
-
-#EXTINF:-1  tvg-logo="https://images.ecestaticos.com/if37XzTUw8IRKVKIUdOaEvbdHYY=/0x0:2272x1479/1200x1200/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fed2%2Fe26%2F4ea%2Fed2e264ea1827650f92d2b6f27b8617d.jpg" group-title="CARIS", Los Simpson V2 24/7
-http://europass.site:8080/randialfre/JXFQGvfZdD/37767
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="CARIS", Hey Arnold 24/7
-http://v3.playerlatino.live/stream/m3u8/522
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="PELIS", Cine Accion ᵸᴰ
 http://clubtv.link/01oct/phpcode/android1.php?c=1022&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
