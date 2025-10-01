@@ -247,8 +247,8 @@ http://clubtv.link/01oct/phpcode/android1.php?c=1577&token=tecnotokenplustv&f=.m
 http://clubtv.link/01oct/phpcode/android1.php?c=676&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="" group-title="CARIS", Two And a Half Men 24/7
 http://clubtv.link/01oct/phpcode/android1.php?c=675&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 group-title="CARIS" tvg-logo="https://imgur.com/52T80pI.png",Los Simpson 24/7
-http://clubtv.link/01oct/phpcode/24.php?c=simpson_maniahd193&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 group-title="CARIS" tvg-logo="https://imgur.com/52T80pI.png",Los Simpson 24/72
+https://vaughn.live/simpson_maniahd193
 
 
 
