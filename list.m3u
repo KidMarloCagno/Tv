@@ -247,33 +247,10 @@ http://clubtv.link/01oct/phpcode/android1.php?c=1577&token=tecnotokenplustv&f=.m
 http://clubtv.link/01oct/phpcode/android1.php?c=676&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="" group-title="CARIS", Two And a Half Men 24/7
 http://clubtv.link/01oct/phpcode/android1.php?c=675&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png"  group-title="CARIS", Los Reyes de la Colina ²⁴⁺⁷
-http://clubtv.link/01oct/phpcode/android0.php?c=796&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CARIS", Los Simpson (Temporadas 1-5) ²⁴⁺⁷ 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CARIS", Los Simpson (T1-T5) 24/7 
 http://clubtv.link/01oct/phpcode/android0.php?c=894&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CARIS", Los Simpson (Temporadas 6-11) ²⁴⁺⁷ 
-http://clubtv.link/01oct/phpcode/android0.php?c=895&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CARIS", Los Simpson (Temporadas 12-17) ²⁴⁺⁷ 
-http://clubtv.link/01oct/phpcode/android0.php?c=896&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CARIS", Los Simpson (Temporadas 18-21) ²⁴⁺⁷ 
-http://clubtv.link/01oct/phpcode/android0.php?c=897&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CARIS", Los Simpson (Temporadas 22-26) ²⁴⁺⁷ 
-http://clubtv.link/01oct/phpcode/android0.php?c=898&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CARIS", Los Simpson (Temporadas 27-30) ²⁴⁺⁷ 
-http://clubtv.link/01oct/phpcode/android0.php?c=899&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CARIS", Los Simpson ²⁴⁺⁷
-http://clubtv.link/01oct/phpcode/android0.php?c=357&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png"  group-title="CARIS", Los Vengadores Unidos ²⁴⁺⁷
-http://clubtv.link/01oct/phpcode/android0.php?c=818&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png"  group-title="CARIS", Malcolm ²⁴⁺⁷
-http://clubtv.link/01oct/phpcode/android0.php?c=911&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png"  group-title="CARIS", Malcolm ᵸᴰ ²⁴⁺⁷
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png"  group-title="CARIS", Malcolm 24/7
 http://clubtv.link/01oct/phpcode/android0.php?c=798&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png"  group-title="CARIS", M\u00E1s chic
-http://clubtv.link/01oct/phpcode/android0.php?c=180&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png"  group-title="CARIS", M\u00E1s chic
-http://clubtv.link/01oct/phpcode/android0.php?c=730&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 
 
