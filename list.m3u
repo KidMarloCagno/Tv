@@ -894,6 +894,8 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="zCARIS", Cartoon Network
 http://clubtv.link/01oct/phpcode/android3.php?c=a0c0&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="CARIS", Cartoonito
+http://clubtv.link/01oct/phpcode/android3.php?c=a0c0&token=tecnotokenplustv
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="zCARIS", Nick Jr
 http://clubtv.link/01oct/phpcode/android3.php?c=a0ck&token=tecnotokenplustv
@@ -902,6 +904,9 @@ http://clubtv.link/01oct/phpcode/android3.php?c=a0am&token=tecnotokenplustv
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="zCARIS", Nick Clasico
 http://clubtv.link/01oct/phpcode/plutotv.php?c=5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18711-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8d15965-7824-4eee-a6c8-345e488692b7&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="CARIS", Discovery Kids
+http://clubtv.link/01oct/phpcode/android3.php?c=a0an&token=tecnotokenplustv
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="zCARIS", Disney Channel
 http://clubtv.link/01oct/phpcode/android3.php?c=a0al&token=tecnotokenplustv
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="zCARIS", Disney Jr
@@ -909,3 +914,249 @@ http://clubtv.link/01oct/phpcode/android3.php?c=a0bz&token=tecnotokenplustv
 
 #EXTINF:-1 group-title="zCARIS" tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="zPELIS", Cine Latino
+http://clubtv.link/01oct/phpcode/android3.php?c=a0lq&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zPELIS", Universal Studio
+http://clubtv.link/01oct/phpcode/android3.php?c=a0bh&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zPELIS", Universal
+http://clubtv.link/01oct/phpcode/android3.php?c=a0bt&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="zPELIS", Cinemax ᵸᴰ
+http://clubtv.link/01oct/phpcode/android3.php?c=a093&token=tecnotokenplustv
+
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="zTV PREMIUM", A&E
+http://clubtv.link/01oct/phpcode/android3.php?c=a0bv&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="zTV PREMIUM", A3Series
+http://clubtv.link/01oct/phpcode/android3.php?c=a0b0&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="zTV PREMIUM", AMC
+http://clubtv.link/01oct/phpcode/android3.php?c=a0k8&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="zTV PREMIUM", Animal Planet
+http://clubtv.link/01oct/phpcode/android3.php?c=a0ao&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="zTV PREMIUM", AXN
+http://clubtv.link/01oct/phpcode/android3.php?c=a08w&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="zTV PREMIUM", Comedy Central
+http://clubtv.link/01oct/phpcode/android3.php?c=a0b3&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="zTV PREMIUM", Discovery Channel
+http://clubtv.link/01oct/phpcode/android3.php?c=a0al&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="zTV PREMIUM", Discovery Investigation
+http://clubtv.link/01oct/phpcode/android3.php?c=a0ch&token=tecnotokenplustv
+
+#EXTINF:-1  tvg-logo="http://x.playerlatino.live/e.png" group-title="TV PREMIUM", E!
+http://clubtv.link/01oct/phpcode/android3.php?c=a0by&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="zTV PREMIUM", FX ᵸᴰ
+http://clubtv.link/01oct/phpcode/android3.php?c=a08x&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="zTV PREMIUM", HBO
+http://clubtv.link/01oct/phpcode/android3.php?c=a0c5&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="zTV PREMIUM", HBO Plus
+http://clubtv.link/01oct/phpcode/android3.php?c=a0cv&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="zTV PREMIUM", History Channel
+http://clubtv.link/01oct/phpcode/android3.php?c=a0ap&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="zTV PREMIUM", History Channel 2
+http://clubtv.link/01oct/phpcode/android3.php?c=a0dj&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="zTV PREMIUM", Lifetime
+http://clubtv.link/01oct/phpcode/android3.php?c=a0ci&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="zTV PREMIUM", Nat Geo
+http://clubtv.link/01oct/phpcode/android3.php?c=a0cl&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="zTV PREMIUM", Paramount
+http://clubtv.link/01oct/phpcode/android4.php?c=a0cs&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="zTV PREMIUM", Sony
+http://clubtv.link/01oct/phpcode/android3.php?c=a0aj&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="zTV PREMIUM", Space
+http://clubtv.link/01oct/phpcode/android3.php?c=a0cg&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="zTV PREMIUM", TLC
+http://clubtv.link/01oct/phpcode/android3.php?c=a0bx&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zTV PREMIUM", TNT Series
+http://clubtv.link/01oct/phpcode/android3.php?c=a0da&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zTV PREMIUM", TNT
+http://clubtv.link/01oct/phpcode/android3.php?c=a0aq&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="zTV PREMIUM", Universal Channel
+http://clubtv.link/01oct/phpcode/android3.php?c=a0bt&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="zTV PREMIUM", Warner Channel
+http://clubtv.link/01oct/phpcode/android3.php?c=a0cf&token=tecnotokenplustv
+
+
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1291" tvg-name="Voice Over Radio TV" tvg-logo="https://cdn.m3u.cl/logo/1291_Voice_Over_Radio_TV.png", Voice Over Radio TV
+https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="773" tvg-name="Canal 5 Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/773_Canal_5_Santa_Fe.png", Canal 5 Santa Fe Argentina
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="546" tvg-name="Top TV" tvg-logo="https://cdn.m3u.cl/logo/546_Top_TV.png", Top TV Brasil
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+
+#EXTINF:-1 tvg-id="Videorola.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/videorolla.png" group-title="zMUSICA", VideoRola
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png" group-title="zMUSICA",Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1271" tvg-name="MMC - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1271_MMC___Freetv_com.png", FreeTV Banda
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://cdn.m3u.cl/logo/16_Conecta_TV.png", Conecta TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1623" tvg-name="Radio Video Mix" tvg-logo="https://cdn.m3u.cl/logo/1623_Radio_Video_Mix.png", Radio Video Mix
+https://radioxxx.ddns.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="zMUSICA", MTV
+http://clubtv.link/01oct/phpcode/android3.php?c=a0ak&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="zMUSICA", MTV Hits
+http://clubtv.link/01oct/phpcode/android3.php?c=a0b4&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="zMUSICA", MTV 00s
+http://clubtv.link/01oct/phpcode/android3.php?c=a0kh&token=tecnotokenplustv
+
+#EXTINF:-1 group-title="zMUSICA" tvg-logo"https://images.seeklogo.com/logo-png/20/1/vevo-logo-png_seeklogo-209447.png", Vevo Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="zMUSICA" tvg-logo"https://images.seeklogo.com/logo-png/20/1/vevo-logo-png_seeklogo-209447.png",Vevo Iconos Latinos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="zMUSICA" tvg-logo"https://images.seeklogo.com/logo-png/20/1/vevo-logo-png_seeklogo-209447.png",Vevo Regional Mexicano
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="zMUSICA" tvg-logo"https://images.seeklogo.com/logo-png/20/1/vevo-logo-png_seeklogo-209447.png",Vevo Country
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="zMUSICA" tvg-logo"https://images.seeklogo.com/logo-png/20/1/vevo-logo-png_seeklogo-209447.png",Vevo R&B
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="zMUSICA" tvg-logo"https://images.seeklogo.com/logo-png/20/1/vevo-logo-png_seeklogo-209447.png",Vevo '70s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="zMUSICA" tvg-logo"https://images.seeklogo.com/logo-png/20/1/vevo-logo-png_seeklogo-209447.png",Vevo '80s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="zMUSICA" tvg-logo"https://images.seeklogo.com/logo-png/20/1/vevo-logo-png_seeklogo-209447.png",Vevo '90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="zMUSICA" tvg-logo"https://images.seeklogo.com/logo-png/20/1/vevo-logo-png_seeklogo-209447.png",Vevo 2K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="zMUSICA" tvg-logo"https://images.seeklogo.com/logo-png/20/1/vevo-logo-png_seeklogo-209447.png",Vevo Hip-Hop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1063" tvg-name="Vintage Music" tvg-logo="https://cdn.m3u.cl/logo/1063_Vintage_Music.png", Vintage Music
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1473" tvg-name="Music PUQ" tvg-logo="https://cdn.m3u.cl/logo/1473_Music_PUQ.png", Music PUQ
+https://vdochile.com:3131/live/redupxprlive.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/radioenvivo/images/recta-pfm-tv.png" group-title="zMUSICA", Portal FoxMix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png" group-title="zMUSICA", Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="zMUSICA",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="7080TV.it" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="zMUSICA",70-80 TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://theretrochannel.tv/img/retroplayer.jpg" group-title="zMUSICA", The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="zMUSICA",13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1064" tvg-name="Soy Plancha TV" tvg-logo="https://cdn.m3u.cl/logo/1064_Soy_Plancha_TV.png", Soy Plancha TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1127" tvg-name="Carolina TV 2" tvg-logo="https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png", Carolina TV
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png", VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="981PearlFM.sx" tvg-logo="https://i.imgur.com/GY750xh.jpg" group-title="zMUSICA",98.1 Pearl FM
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="zMUSICA", HTV
+http://clubtv.link/01oct/phpcode/android3.php?c=a0b7&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="https://imgur.com/h5FABgC.png" group-title="zMUSICA",La Bocina Latina
+http://clubtv.link/01oct/phpcode/distro.php?c=la-bocina-latina
+#EXTINF:-1 tvg-logo="https://imgur.com/yc3nhlP.png" group-title="zMUSICA",Trace Latina
+http://clubtv.link/01oct/phpcode/distro.php?c=trace-latina
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1403" tvg-name="Red Circle" tvg-logo="https://cdn.m3u.cl/logo/1403_Red_Circle.png", Red Circle
+https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1277" tvg-name="Flash - Freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1277_Flash___Freetv_com.png", FreeTV Hits
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://cdn.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1426" tvg-name="Los Heat TV" tvg-logo="https://cdn.m3u.cl/logo/1426_Los_Heat_TV.png", Los Heat TV
+https://mdstrm.com/video/631f6f0fe4eba7082bc551ad.m3u8
+#EXTINF:-1 tvg-logo="" group-title="zMUSICA", Turbo Mix TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png", Nubeh TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1075" tvg-name="Cadena Elite" tvg-logo="https://cdn.m3u.cl/logo/1075_Cadena_Elite.png", Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6Oh8gjWt6z8/X3pWO0u5KcI/AAAAAAAAHy0/s9Kss3RRtnIylSWcoiC3UwuevHBModlogCK4BGAYYCw/s1600/video%2Btour%2Bchannel.jpg" group-title="zMUSICA", Video Tour Channel
+https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1476" tvg-name="Urban Pro DJ" tvg-logo="https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png", Urban Pro DJ
+https://vdochile.com:3115/hybrid/play.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://cdn.m3u.cl/logo/22_Video_Tour_Channel.png", Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1234" tvg-name="Urbano TV" tvg-logo="https://cdn.m3u.cl/logo/1234_Urbano_TV.png", Urbano TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f12080cb1fe8a90df78e425df3f7a6d3.webp" group-title="zMUSICA", m2o TV
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 group-title="zMUSICA" tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://cdn.m3u.cl/logo/13_Ruidos_TV.png", Ruidos TV
+https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
+#EXTINF:-1 group-title="zMUSICA" tvg-id="1014" tvg-name="PlanetaTV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png", Planeta TV
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="zMUSICA" tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://cdn.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music | GB
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#EXTINF:-1 group-title="zMUSICA" tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://cdn.m3u.cl/logo/34_TV_vconline_cl.png", TV vconline.cl
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="zMUSICA",Stingray Today's K Pop
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="zMUSICA",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="zMUSICA",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="zMUSICA",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="zMUSICA",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="zMUSICA",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="zMUSICA",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="zMUSICA",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="zMUSICA",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="zMUSICA",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="zMUSICA",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="zMUSICA",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="zMUSICA",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="zMUSICA",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png" group-title="zMUSICA",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="zMUSICA",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="zMUSICA",Stingray D Jazz
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="zMUSICA",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png" group-title="zMUSICA",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="zSPORTS", Claro Sports Colombia
+http://clubtv.link/01oct/phpcode/android3.php?c=a0cm&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="zSPORTS", Fox Sports 2 MX
+http://clubtv.link/01oct/phpcode/android4.php?c=a0oz&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="zSPORTS", Fox Sports 3 MX
+http://clubtv.link/01oct/phpcode/android4.php?c=a0ox&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="zSPORTS", ESPN 2 MX
+http://clubtv.link/01oct/phpcode/android4.php?c=a092&token=tecnotokenplustv
