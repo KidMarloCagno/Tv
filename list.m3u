@@ -894,7 +894,7 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="zCARIS", Cartoon Network
 http://clubtv.link/01oct/phpcode/android3.php?c=a0c0&token=tecnotokenplustv
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="CARIS", Cartoonito
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="zCARIS", Cartoonito
 http://clubtv.link/01oct/phpcode/android3.php?c=a0c0&token=tecnotokenplustv
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="zCARIS", Nick Jr
@@ -904,7 +904,7 @@ http://clubtv.link/01oct/phpcode/android3.php?c=a0am&token=tecnotokenplustv
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="zCARIS", Nick Clasico
 http://clubtv.link/01oct/phpcode/plutotv.php?c=5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18711-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8d15965-7824-4eee-a6c8-345e488692b7&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="CARIS", Discovery Kids
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="zCARIS", Discovery Kids
 http://clubtv.link/01oct/phpcode/android3.php?c=a0an&token=tecnotokenplustv
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="zCARIS", Disney Channel
@@ -945,7 +945,7 @@ http://clubtv.link/01oct/phpcode/android3.php?c=a0al&token=tecnotokenplustv
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="zTV PREMIUM", Discovery Investigation
 http://clubtv.link/01oct/phpcode/android3.php?c=a0ch&token=tecnotokenplustv
 
-#EXTINF:-1  tvg-logo="http://x.playerlatino.live/e.png" group-title="TV PREMIUM", E!
+#EXTINF:-1  tvg-logo="http://x.playerlatino.live/e.png" group-title="zTV PREMIUM", E!
 http://clubtv.link/01oct/phpcode/android3.php?c=a0by&token=tecnotokenplustv
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="zTV PREMIUM", FX ᵸᴰ
