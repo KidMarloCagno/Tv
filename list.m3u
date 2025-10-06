@@ -249,8 +249,10 @@ http://clubtv.link/01oct/phpcode/android1.php?c=676&token=tecnotokenplustv&f=.m3
 http://clubtv.link/01oct/phpcode/android1.php?c=675&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png"  group-title="CARIS", Los Simpson (T1-T5) 24/7 
 http://clubtv.link/01oct/phpcode/android0.php?c=894&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png"  group-title="CARIS", Malcolm 24/7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="CARIS", Malcolm 24/7
 http://clubtv.link/01oct/phpcode/android0.php?c=798&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="CARIS", Hey Arnold 24/7
+http://clubtv.link/01oct/phpcode/android4.php?c=1017&token=tecnotokenplustv|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
 
 
 
