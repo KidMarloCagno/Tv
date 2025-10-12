@@ -1337,7 +1337,107 @@ http://clubtv.link/01oct/phpcode/lista0.php?c=36&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/01oct/phpcode/lista0.php?c=31&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzPELIS", Universal Studio
 http://clubtv.link/01oct/phpcode/lista0.php?c=70&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="zzPELIS", Sony Movies
+http://clubtv.link/01oct/phpcode/lista2.php?c=a1ad&f=.m3u8&token=tecnotokenplustv
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="zzPELIS", Cinecanal ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista0.php?c=50&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="zzPELIS", Cinemax ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista0.php?c=49&token=tecnotokenplustv&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="zzTV PREMIUM", A&E
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0bv&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="zzTV PREMIUM", A3Series
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0b0&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="zzTV PREMIUM", AMC
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0k8&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="zzTV PREMIUM", Animal Planet
+http://clubtv.link/01oct/phpcode/lista0.php?c=56&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="zzTV PREMIUM", AXN
+http://clubtv.link/01oct/phpcode/lista0.php?c=55&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="zzTV PREMIUM", AXN ᵸᴰ
+http://clubtv.link/01oct/phpcode/lista3.php?c=a1i4&token=tecnotokenplustv&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="zzTV PREMIUM", Comedy Central
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0b3&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png"  group-title="zzTV PREMIUM", DHE HD
+http://clubtv.link/01oct/phpcode/lista2.php?c=a1kb&f=.m3u8&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="zzTV PREMIUM", Discovery Channel
+http://clubtv.link/01oct/phpcode/lista0.php?c=47&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="zzTV PREMIUM", Discovery H&H
+http://clubtv.link/01oct/phpcode/lista0.php?c=46&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="zzTV PREMIUM", Discovery Investigation
+http://clubtv.link/01oct/phpcode/lista0.php?c=18&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="zzTV PREMIUM", Discovery Turbo
+http://clubtv.link/01oct/phpcode/lista0.php?c=80&token=tecnotokenplustv&f=.m3u8
+
+joako
+#EXTINF:-1  tvg-logo="http://x.playerlatino.live/e.png" group-title="zzTV PREMIUM", E!
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0by&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="zzTV PREMIUM", FX
+http://clubtv.link/01oct/phpcode/lista1.php?c=a08x&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="zzTV PREMIUM", HBO
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0c5&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="zzTV PREMIUM", HBO 2
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0ct&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="zzTV PREMIUM", HBO Family
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0cu&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="zzTV PREMIUM", HBO Xtreme
+http://clubtv.link/01oct/phpcode/lista1.php?c=a096&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="zzTV PREMIUM", HBO Plus
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0cv&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbomundi.png" group-title="zzTV PREMIUM", HBO Mundi
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0jj&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="zzTV PREMIUM", History Channel
+http://clubtv.link/01oct/phpcode/lista0.php?c=19&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="zzTV PREMIUM", History Channel ᵸᴰ
+http://clubtv.link/01oct/phpcode/lista2.php?c=a0vc&f=.m3u8&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="zzTV PREMIUM", Lifetime
+http://clubtv.link/01oct/phpcode/lista0.php?c=33&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="zzTV PREMIUM", Nat Geo
+http://clubtv.link/01oct/phpcode/lista0.php?c=15&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="zzTV PREMIUM", Nat Geo
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0cl&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="zzTV PREMIUM", Paramount
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0cs&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="zzTV PREMIUM", Sony
+http://clubtv.link/01oct/phpcode/lista0.php?c=11&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="zzTV PREMIUM", Sony ᵸᴰ
+http://clubtv.link/01oct/phpcode/lista2.php?c=a1i5&f=.m3u8&token=tecnotokenplustv
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="zzTV PREMIUM", Space
+http://clubtv.link/01oct/phpcode/lista0.php?c=10&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="zzTV PREMIUM", TLC
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0bx&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzTV PREMIUM", TNT Series
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0da&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzTV PREMIUM", TNT Novelas
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0m2&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="zzTV PREMIUM", Universal Channel
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0bt&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzTV PREMIUM", Universal Crime
+http://clubtv.link/01oct/phpcode/lista0.php?c=32&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzTV PREMIUM", Universal Channel
+http://clubtv.link/01oct/phpcode/lista0.php?c=38&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png" group-title="zzTV PREMIUM", Universal Comedy
+http://clubtv.link/01oct/phpcode/lista0.php?c=34&token=tecnotokenplustv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="zzTV PREMIUM", Warner Channel
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0cf&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="zzTV PREMIUM", Warner Channel ᵸᴰ
+http://clubtv.link/01oct/phpcode/lista0.php?c=2&token=tecnotokenplustv&f=.m3u8
