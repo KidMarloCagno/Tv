@@ -1739,22 +1739,58 @@ http://clubtv.link/01oct/phpcode/lista1.php?c=a0cm&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="zzSPORTS", Fox Sports 1 MX
 http://clubtv.link/01oct/phpcode/lista0.php?c=30&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="zzSPORTS", Fox Sports 1 MX  ᵸᴰ
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=19&f=.ts
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=35&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="zzSPORTS", Fox Sports 2 MX  ᵸᴰ
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=20&f=.ts
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=36&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="zzSPORTS", Fox Sports 3 MX  ᵸᴰ
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=22&f=.ts
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=37&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="zzSPORTS", Fox Sports Premium MX ᵸᴰ
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=65&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="zzSPORTS", Fox Sports 1 ᵸᴰ
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=19&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="zzSPORTS", Fox Sports 2 ᵸᴰ
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=20&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="zzSPORTS", Fox Sports 3 ᵸᴰ
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=22&f=.ts
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="zzSPORTS", TUDN 
 http://clubtv.link/01oct/phpcode/lista0.php?c=8&token=tecnotokenplustv&f=.m3u8
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="zzSPORTS", TUDN ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista0.php?c=4&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="zzSPORTS", TUDN 2 ᵸᴰ
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=16&f=.ts
+#EXTINF:-1  group-title="zzSPORTS",Azteca Deportes ᵸᴰ
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=76&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn1.png" group-title="zzSPORTS", ESPN 1 MX
 http://clubtv.link/01oct/phpcode/lista0.php?c=41&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn1.png" group-title="zzSPORTS", ESPN 1 MX ᵸᴰ
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=41&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="zzSPORTS", ESPN 2 MX
 http://clubtv.link/01oct/phpcode/lista0.php?c=40&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn1.png" group-title="zzSPORTS", ESPN 2 MX ᵸᴰ
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=46&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="zzSPORTS", ESPN 3 MX
 http://clubtv.link/01oct/phpcode/lista0.php?c=39&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn1.png" group-title="zzSPORTS", ESPN 3 MX ᵸᴰ
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=48&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn1.png" group-title="zzSPORTS", ESPN 4 MX ᵸᴰ
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=74&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn1.png" group-title="zzSPORTS", ESPN 5 MX ᵸᴰ
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=75&f=.ts
+
+#EXTINF:-1  group-title="zzSPORTS", La Liga
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
+#EXTINF:-1  group-title="zzSPORTS", La Liga Max
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=50&f=.ts
+#EXTINF:-1  group-title="zzSPORTS", Dazn La Liga
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=82&f=.ts
+#EXTINF:-1  group-title="zzSPORTS", Sky Sports La Liga
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=78&f=.ts
+#EXTINF:-1  group-title="zzSPORTS", Movistar La Liga
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=72&f=.ts
+#EXTINF:-1  group-title="zzSPORTS", Movistar Campeones
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=70&f=.ts
+
+
+
