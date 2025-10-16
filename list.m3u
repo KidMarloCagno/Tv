@@ -1167,6 +1167,8 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png" group-title="zzMÉXICO", Azteca Uno 2
 http://clubtv.link/01oct/phpcode/lista0.php?c=1&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png" group-title="zzMÉXICO", Azteca Uno ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=21&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="zzMÉXICO", Azteca Uno (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
@@ -1178,9 +1180,12 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="zzMÉXICO", Las Estrellas 3
 http://clubtv.link/01oct/phpcode/lista0.php?c=17&token=tecnotokenplustv&f=.m3u8
-
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="zzMÉXICO", Las Estrellas 4
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=25&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="zzMÉXICO",  Imagen TV
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0d5&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="zzMÉXICO",  Imagen TV ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=31&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="zzMÉXICO" , Imagen TV (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
@@ -1193,6 +1198,9 @@ http://clubtv.link/01oct/phpcode/lista0.php?c=52&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0fl&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="zzMÉXICO", Canal 5 ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0n6&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="zzMÉXICO", Canal 5.2  ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=6&f=.ts
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bitme.png" group-title="zzMÉXICO", BitMe
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0np&token=tecnotokenplustv&f=.m3u8
 
@@ -1211,6 +1219,8 @@ http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="zzMÉXICO", Azteca 7 ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista0.php?c=54&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="zzMÉXICO", Azteca 7.2 ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=3&f=.ts
 
 #EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="zzMÉXICO",Azteca A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -1220,6 +1230,8 @@ http://clubtv.link/01oct/phpcode/lista1.php?c=a0dm&token=tecnotokenplustv&f=.m3u
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="zzMÉXICO", Distrito Comedia
 http://clubtv.link/01oct/phpcode/lista0.php?c=42&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="zzMÉXICO", Distrito Comedia ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=16&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="zzMÉXICO", Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -1228,23 +1240,40 @@ https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproduccion
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/unimas.png" group-title="zzMÉXICO", Univision
 http://clubtv.link/01oct/phpcode/lista0.php?c=3&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unimas.png" group-title="zzMÉXICO", Univision ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=29&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" group-title="zzMÉXICO", Univision Tlnovelas
 http://clubtv.link/01oct/phpcode/lista0.php?c=69&token=tecnotokenplustv&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="zzMÉXICO", Unicable ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=30&f=.ts
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="zzMÉXICO", Telemundo
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0mg&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="zzMÉXICO", Telemundo ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=17&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="zzMÉXICO", Telemundo Internacional
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=137&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="zzMÉXICO", TNT Novelas
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0m2&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzMÉXICO", TNT Novelas ᵸᴰ
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=166&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="zzMÉXICO", Pasiones
 http://clubtv.link/01oct/phpcode/lista3.php?c=a1h9&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="zzMÉXICO", Pasiones ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=20&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="zzMÉXICO", De Pelicula
 http://clubtv.link/01oct/phpcode/lista0.php?c=48&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="zzMÉXICO", De Pelicula ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista2.php?c=a19o&f=.m3u8&token=tecnotokenplustv
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dpeliculaplus.png" group-title="zzMÉXICO", De Pelicula Plus
 http://clubtv.link/01oct/phpcode/lista3.php?c=a19o&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dpeliculaplus.png" group-title="zzMÉXICO", De Pelicula Plus ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=163&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="zzMÉXICO", Gala TV ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=23&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" group-title="zzMÉXICO", Univision Tlnovelas
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=24&f=.ts
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/7hlsu6FzRsGkArSgHj6bu/ffe4663f174bc19220d98f998872148d/Heraldo_tv.png" group-title="zzMÉXICO", Heraldo Televisión
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -1253,9 +1282,9 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0bq&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2025/09/Logo_ONN-3D.png" group-title="zzMÉXICO", Once Niñas y Niños
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0nr&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="zzMÉXICO",Canal 14
-http://clubtv.link/01oct/phpcode/lista1.php?c=a0ax&token=tecnotokenplustv&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="zzMÉXICO", Canal 14
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0ax&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="zzMÉXICO",Canal 14.2
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
@@ -1289,6 +1318,10 @@ http://clubtv.link/01oct/phpcode/lista0.php?c=89&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/01oct/phpcode/lista0.php?c=88&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azmundo.png" group-title="zzMÉXICO", Az Mundo
 http://clubtv.link/01oct/phpcode/lista0.php?c=87&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azmundo.png" group-title="zzMÉXICO", Az Mundo ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=22&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="MÉXICO", El Gourmet ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=93&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foodnetwork.png" group-title="zzMÉXICO", Food Network
 http://clubtv.link/01oct/phpcode/lista3.php?c=a1l5&token=tecnotokenplustv&f=.m3u8
 
@@ -1301,89 +1334,152 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 group-title="zzMÉXICO" tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png", Alcance TV
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="zzCARIS", Tooncast 1
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="zzCARIS", Tooncast
 http://clubtv.link/01oct/phpcode/lista2.php?c=a1l4&f=.m3u8&token=tecnotokenplustv
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="zzCARIS", Cartoon Network 1
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="zzCARIS", Tooncast ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=111&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="zzCARIS", Cartoon Network
 http://clubtv.link/01oct/phpcode/lista0.php?c=51&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="zzCARIS", Cartoon Network ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista2.php?c=a1kn&f=.m3u8&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="zzCARIS", Cartoon Network 2 ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=107&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="zzCARIS", Cartoonito
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0kc&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="zzCARIS", Cartoonito ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=108&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="zzCARIS", Nick Jr
 http://clubtv.link/01oct/phpcode/lista0.php?c=13&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="zzCARIS", Nick Jr ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="zzCARIS", Nick
 http://clubtv.link/01oct/phpcode/lista0.php?c=92&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="zzCARIS", Nick ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=104&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="zzCARIS", Disney Channel
 http://clubtv.link/01oct/phpcode/lista0.php?c=44&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="zzCARIS", Disney Channel ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=162&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="zzCARIS", Disney Jr
 http://clubtv.link/01oct/phpcode/lista0.php?c=43&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="zzCARIS", Disney Jr ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=96&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="zzCARIS", Discovery Kids
 http://clubtv.link/01oct/phpcode/lista0.php?c=45&token=tecnotokenplustv&f=.m3u8
-
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="zzCARIS", Discovery Kids ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
 #EXTINF:-1 group-title="zzCARIS" tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="zzPELIS", Cine Latino
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0lq&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 group-title="zzPELIS", Golden
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=161&f=.ts
+#EXTINF:-1 group-title="zzPELIS", Golden Premier 1
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=35&f=.ts
+#EXTINF:-1 group-title="zzPELIS", Golden Premier 2
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=138&f=.ts
+#EXTINF:-1 group-title="zzPELIS", Golden Plus
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=33&f=.ts
+#EXTINF:-1 group-title="zzPELIS", Golden Edge
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=34&f=.ts
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/multipremier.png" group-title="zzPELIS", Multipremier ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=54&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="zzPELIS", Star Channel
 http://clubtv.link/01oct/phpcode/lista0.php?c=37&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="zzPELIS", Star Channel ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=11&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="zzPELIS", TNT
 http://clubtv.link/01oct/phpcode/lista0.php?c=6&token=tecnotokenplustv&f=.m3u87
-
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="zzPELIS", TNT ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=10&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzPELIS", Universal Cinema
 http://clubtv.link/01oct/phpcode/lista0.php?c=36&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzPELIS", Universal Premier
 http://clubtv.link/01oct/phpcode/lista0.php?c=31&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzPELIS", Universal Studio
 http://clubtv.link/01oct/phpcode/lista0.php?c=70&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzPELIS", Universal Studio ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=53&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzPELIS", Universal Premiere ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=164&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzPELIS", Universal Cinema ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=167&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="zzPELIS", Sony Movies
 http://clubtv.link/01oct/phpcode/lista2.php?c=a1ad&f=.m3u8&token=tecnotokenplustv
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="zzPELIS", Cinecanal ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista0.php?c=50&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="zzPELIS", Cinecanal 2 ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=13&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="zzPELIS", Cinemax ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista0.php?c=49&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="zzPELIS", Cinemax 2 ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=12&f=.ts
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="zzTV PREMIUM", A&E
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0bv&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="zzTV PREMIUM", A&E ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=85&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="zzTV PREMIUM", A3Series
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0b0&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="zzTV PREMIUM", AMC
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0k8&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="zzTV PREMIUM", AMC ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=60&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="zzTV PREMIUM", Animal Planet
 http://clubtv.link/01oct/phpcode/lista0.php?c=56&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="zzTV PREMIUM", Animal Planet ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=69&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="zzTV PREMIUM", AXN
 http://clubtv.link/01oct/phpcode/lista0.php?c=55&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="zzTV PREMIUM", AXN ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista3.php?c=a1i4&token=tecnotokenplustv&f=.m3u8
-
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="zzTV PREMIUM", AXN 2 ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=38&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="zzTV PREMIUM", Comedy Central
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0b3&token=tecnotokenplustv&f=.m3u8
-
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="zzTV PREMIUM", Comedy Central ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=67&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png"  group-title="zzTV PREMIUM", DHE ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista2.php?c=a1kb&f=.m3u8&token=tecnotokenplustv
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="zzTV PREMIUM", Discovery Channel
 http://clubtv.link/01oct/phpcode/lista0.php?c=47&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="zzTV PREMIUM", Discovery Channel ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=71&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="zzTV PREMIUM", Discovery H&H
 http://clubtv.link/01oct/phpcode/lista0.php?c=46&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="zzTV PREMIUM", Discovery H&H ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=76&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="zzTV PREMIUM", Discovery Investigation
 http://clubtv.link/01oct/phpcode/lista0.php?c=18&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="zzTV PREMIUM", Discovery Investigation ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=84&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="zzTV PREMIUM", Discovery Turbo
 http://clubtv.link/01oct/phpcode/lista0.php?c=80&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="zzTV PREMIUM", Discovery Turbo ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=72&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="zzTV PREMIUM", Discovery Theater ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=88&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="zzTV PREMIUM", Discovery World ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=89&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryscience.png" group-title="zzTV PREMIUM", Discovery Science ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=127&f=.ts
 
-joako
 #EXTINF:-1  tvg-logo="http://x.playerlatino.live/e.png" group-title="zzTV PREMIUM", E!
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0by&token=tecnotokenplustv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="zzTV PREMIUM", FX
 http://clubtv.link/01oct/phpcode/lista1.php?c=a08x&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="zzTV PREMIUM", FX ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=32&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="zzTV PREMIUM", HBO
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0c5&token=tecnotokenplustv&f=.m3u8
@@ -1402,37 +1498,57 @@ http://clubtv.link/01oct/phpcode/lista1.php?c=a0jj&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/01oct/phpcode/lista0.php?c=19&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="zzTV PREMIUM", History Channel ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista2.php?c=a0vc&f=.m3u8&token=tecnotokenplustv
-
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="zzTV PREMIUM", History Channel ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=18&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="zzTV PREMIUM", History Channel 2 ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=19&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="zzTV PREMIUM", Lifetime
 http://clubtv.link/01oct/phpcode/lista0.php?c=33&token=tecnotokenplustv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="zzTV PREMIUM", Nat Geo
 http://clubtv.link/01oct/phpcode/lista0.php?c=15&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="zzTV PREMIUM", Nat Geo
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="zzTV PREMIUM", Nat Geo 2
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0cl&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="zzTV PREMIUM", Nat Geo ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=68&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="zzTV PREMIUM", Paramount
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0cs&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="zzTV PREMIUM", Paramount ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=64&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="zzTV PREMIUM", Sony
 http://clubtv.link/01oct/phpcode/lista0.php?c=11&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="zzTV PREMIUM", Sony ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista2.php?c=a1i5&f=.m3u8&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="zzTV PREMIUM", Sony 2 ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=37&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="zzTV PREMIUM", Space
 http://clubtv.link/01oct/phpcode/lista0.php?c=10&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="zzTV PREMIUM", Space ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=9&f=.ts
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="zzTV PREMIUM", Syfy ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=26&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="zzTV PREMIUM", TLC
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0bx&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="zzTV PREMIUM", TLC ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=86&f=.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzTV PREMIUM", TNT Series
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0da&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzTV PREMIUM", TNT Series ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=36&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="zzTV PREMIUM", Universal Channel
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0bt&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzTV PREMIUM", Universal Crime
 http://clubtv.link/01oct/phpcode/lista0.php?c=32&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzTV PREMIUM", Universal Channel
 http://clubtv.link/01oct/phpcode/lista0.php?c=38&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzTV PREMIUM", Universal Channel ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=40&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png" group-title="zzTV PREMIUM", Universal Comedy
 http://clubtv.link/01oct/phpcode/lista0.php?c=34&token=tecnotokenplustv&f=.m3u8
 
@@ -1440,6 +1556,8 @@ http://clubtv.link/01oct/phpcode/lista0.php?c=34&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0cf&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="zzTV PREMIUM", Warner Channel ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista0.php?c=2&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="zzTV PREMIUM", Warner Channel 2 ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=136&f=.ts
 
 #EXTM3U
 
@@ -1465,13 +1583,20 @@ https://radioxxx.ddns.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="zzMUSICA", Telehit
 http://clubtv.link/01oct/phpcode/lista2.php?c=a0l1&f=.m3u8&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="zzMUSICA", Telehit ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=131&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="zzMUSICA", Telehit Musica
 http://clubtv.link/01oct/phpcode/lista2.php?c=a0l7&f=.m3u8&token=tecnotokenplustv
-
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="zzMUSICA", MTV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=66&f=.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="zzMUSICA", MTV Hits
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0b4&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="zzMUSICA", MTV 00s
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0kh&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="zzMUSICA", MTV 00s ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=176&f=.ts
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="zzMUSICA", Music Top ᵸᴰ
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=165&f=.ts
 
 #EXTINF:-1 group-title="zzMUSICA" tvg-logo"https://images.seeklogo.com/logo-png/20/1/vevo-logo-png_seeklogo-209447.png", Vevo Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
