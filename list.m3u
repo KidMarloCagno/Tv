@@ -592,7 +592,7 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png" group-title="MUSICA", Retro Music TV
 http://clubtv.link/01oct/phpcode/android1.php?c=692&token=tecnotokenplustv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png" group-title="MUSICA", Retro Music TV HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png" group-title="MUSICA", Retro Music TV ᵸᴰ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
@@ -1235,6 +1235,12 @@ http://clubtv.link/01oct/phpcode/lista0.php?c=69&token=tecnotokenplustv&f=.m3u8
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0mg&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="zzMÉXICO", TNT Novelas
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0m2&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzMÉXICO", TNT Novelas
+http://clubtv.link/01oct/phpcode/lista1.php?c=a0m2&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzMÉXICO", TNT Novelas ᵸᴰ
+http://clubtv.link/01oct/phpcode/lista2.php?c=a1hi&f=.m3u8&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzMÉXICO", TNT Novelas 2 ᵸᴰ
+http://clubtv.link/01oct/phpcode/lista3.php?c=a1hi&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="zzMÉXICO", Pasiones
 http://clubtv.link/01oct/phpcode/lista3.php?c=a1h9&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="zzMÉXICO", De Pelicula
@@ -1364,7 +1370,7 @@ http://clubtv.link/01oct/phpcode/lista3.php?c=a1i4&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="zzTV PREMIUM", Comedy Central
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0b3&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png"  group-title="zzTV PREMIUM", DHE HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png"  group-title="zzTV PREMIUM", DHE ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista2.php?c=a1kb&f=.m3u8&token=tecnotokenplustv
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="zzTV PREMIUM", Discovery Channel
@@ -1425,12 +1431,6 @@ http://clubtv.link/01oct/phpcode/lista1.php?c=a0bx&token=tecnotokenplustv&f=.m3u
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzTV PREMIUM", TNT Series
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0da&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzTV PREMIUM", TNT Novelas
-http://clubtv.link/01oct/phpcode/lista1.php?c=a0m2&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzTV PREMIUM", TNT Novelas HD
-http://clubtv.link/01oct/phpcode/lista2.php?c=a1hi&f=.m3u8&token=tecnotokenplustv
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzTV PREMIUM", TNT Novelas 2HD
-http://clubtv.link/01oct/phpcode/lista3.php?c=a1hi&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="zzTV PREMIUM", Universal Channel
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0bt&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzTV PREMIUM", Universal Crime
@@ -1621,7 +1621,7 @@ http://clubtv.link/01oct/phpcode/lista0.php?c=30&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="zzSPORTS", TUDN 
 http://clubtv.link/01oct/phpcode/lista0.php?c=8&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="zzSPORTS", TUDN HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="zzSPORTS", TUDN ᵸᴰ
 http://clubtv.link/01oct/phpcode/lista0.php?c=4&token=tecnotokenplustv&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn1.png" group-title="zzSPORTS", ESPN 1 MX
