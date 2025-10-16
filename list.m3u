@@ -1427,7 +1427,10 @@ http://clubtv.link/01oct/phpcode/lista1.php?c=a0bx&token=tecnotokenplustv&f=.m3u
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0da&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzTV PREMIUM", TNT Novelas
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0m2&token=tecnotokenplustv&f=.m3u8
-
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzTV PREMIUM", TNT Novelas HD
+http://clubtv.link/01oct/phpcode/lista2.php?c=a1hi&f=.m3u8&token=tecnotokenplustv
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="zzTV PREMIUM", TNT Novelas 2HD
+http://clubtv.link/01oct/phpcode/lista3.php?c=a1hi&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="zzTV PREMIUM", Universal Channel
 http://clubtv.link/01oct/phpcode/lista1.php?c=a0bt&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="zzTV PREMIUM", Universal Crime
