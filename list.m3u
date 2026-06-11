@@ -47,7 +47,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/7hlsu6FzRsGkArSgHj6bu/ffe4663f174bc19220d98f998872148d/Heraldo_tv.png" group-title="MÉXICO", Heraldo Televisión
 https://ythls.armelin.one/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
 
-#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="MÉXICO",Canal 14.2
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="MÉXICO",Canal 14
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://www.capital21.cdmx.gob.mx/favicon1.png" group-title="MÉXICO",Capital 21
