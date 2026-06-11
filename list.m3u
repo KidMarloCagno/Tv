@@ -85,7 +85,7 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png" group-title="MUSICA",Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 group-title="MUSICA" tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://cdn.m3u.cl/logo/16_Conecta_TV.png", Conecta TV
+#EXTINF:-1 group-title="MUSICA" tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://play-lh.googleusercontent.com/7Rvs0rCdmfWjm-srLmJ5a2UM8hnvGzLC7QCDrUtBxuclIGymGLjVsVHHrv2kdIDZiQ", Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="1063" tvg-name="Vintage Music" tvg-logo="https://cdn.m3u.cl/logo/1063_Vintage_Music.png", Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
@@ -113,7 +113,7 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://cdn.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", Turbo Mix TV
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s86045q.png" group-title="MUSICA", Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="1075" tvg-name="Cadena Elite" tvg-logo="https://cdn.m3u.cl/logo/1075_Cadena_Elite.png", Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
