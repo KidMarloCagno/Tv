@@ -50,7 +50,7 @@ https://ythls.armelin.one/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="MÉXICO",Canal 14.2
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANN" group-title="MÉXICO",Capital 21
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://www.capital21.cdmx.gob.mx/favicon1.png" group-title="MÉXICO",Capital 21
 https://s5.mexside.net:1936/respaldo/respaldo/chunklist_w390601932.m3u8
 
 #EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22.1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Canal_22_Internacional_2016_print.svg" group-title="MÉXICO",Canal 22.1
