@@ -41,9 +41,6 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDJUAREZ" tvg-logo="https://cdn.m3u.cl/logo/670_Multimedios_Monterrey.png" group-title="MÉXICO", Multimedios Juarez
 http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Multimedios CDMX",C4 en Alerta
-https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/azteca-7-mx.png" group-title="MÉXICO" , Azteca 7
 https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8
 #EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="MÉXICO",Azteca A+
@@ -85,6 +82,24 @@ https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1795049700.m3u8
 #EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2023/05/valogo4.png" group-title="MÉXICO", VA+ 26.1
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Multimedios CDMX",C4 en Alerta
+https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Al Ritmo del Jaripeo (720p)
+https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",America's Funniest Home Videos (720p)
+https://jmp2.uk/plu-69172f1699758a0f03459c5b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",America's Funniest Home Videos (720p)
+https://jmp2.uk/plu-69143e3abb69fb3258ba4944.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",America's Funniest Home Videos (720p)
+https://jmp2.uk/plu-69143e7b0d121b44adfa1ff9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",America's Funniest Home Videos
+https://jmp2.uk/plu-69143de2a570568f53230cab.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",America's Funniest Home Videos
+https://jmp2.uk/plu-690dc8ed1ee9b6ac66607ce2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",America's Funniest Home Videos
+https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Archivos Extraterrestres
+https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="1291" tvg-name="Voice Over Radio TV" tvg-logo="https://cdn.m3u.cl/logo/1291_Voice_Over_Radio_TV.png", Voice Over Radio TV
 https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="773" tvg-name="Canal 5 Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/773_Canal_5_Santa_Fe.png", Canal 5 Santa Fe Argentina
