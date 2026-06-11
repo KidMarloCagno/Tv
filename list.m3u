@@ -74,12 +74,6 @@ https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1795049700.m3u8
 #EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2023/05/valogo4.png" group-title="MÉXICO", VA+ 26.1
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
-#EXTINF:-1 group-title="MÉXICO" tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png", Alcance TV
-https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
-
-#EXTINF:-1 group-title="CARIS" tvg-id="50" tvg-name="Locomotion" tvg-logo="https://cdn.m3u.cl/logo/50_Locomotion.png", Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-
 #EXTINF:-1 group-title="MUSICA" tvg-id="1291" tvg-name="Voice Over Radio TV" tvg-logo="https://cdn.m3u.cl/logo/1291_Voice_Over_Radio_TV.png", Voice Over Radio TV
 https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="773" tvg-name="Canal 5 Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/773_Canal_5_Santa_Fe.png", Canal 5 Santa Fe Argentina
