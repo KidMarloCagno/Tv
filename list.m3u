@@ -11,6 +11,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 tvg-logo="https://assets.teleon.tv/180_webp/azteca-uno-menos-1-mx.webp" group-title="MÉXICO", Azteca Uno (-1h)
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
+
 #EXTINF:-1 group-title="MÉXICO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/las-estrellas-mx.png", Las Estrellas
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/las-estrellas-mx.png" group-title="MÉXICO", Las Estrellas 2
@@ -28,10 +29,16 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 http://45.5.119.43:4000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="MÉXICO",Canal 5
 http://45.5.119.43:4000/play/a05o/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/azteca-7-mx.png" group-title="MÉXICO" , Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="data:image/png;base64,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" group-title="MÉXICO", Azteca Deportes
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/azteca-7-mx.png" group-title="MÉXICO" , Azteca 7
+https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8
+#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="MÉXICO",Azteca A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
 #EXTINF:-1 group-title="MÉXICO" tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png", Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 group-title="MÉXICO" tvg-logo="https://cdn.m3u.cl/logo/670_Multimedios_Monterrey.png", Multimedios Monterrey
@@ -42,11 +49,6 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDJUAREZ" tvg-logo="https://cdn.m3u.cl/logo/670_Multimedios_Monterrey.png" group-title="MÉXICO", Multimedios Juarez
 http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/azteca-7-mx.png" group-title="MÉXICO" , Azteca 7
-https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8
-#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="MÉXICO",Azteca A+
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="MÉXICO", Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -73,12 +75,8 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="MÉXICO" tvg-id="652" tvg-name="Mexiquense TV"  tvg-logo="https://cdn.m3u.cl/logo/652_Mexiquense_TV.png", Mexiquense TV
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://cdn.m3u.cl/logo/652_Mexiquense_TV.png" group-title="MÉXICO",Mexiquense TV 2
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
-#EXTINF:-1 group-title="MÉXICO" tvg-id="658" tvg-name="ADN 40" tvg-logo="https://cdn.m3u.cl/logo/658_ADN_40.png", ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="https://mxplus.tv/images/roku/tv-migrante.jpg" group-title="MÉXICO",TV Migrante
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1795049700.m3u8
@@ -86,156 +84,128 @@ https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1795049700.m3u8
 #EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2023/05/valogo4.png" group-title="MÉXICO", VA+ 26.1
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Multimedios CDMX",C4 en Alerta
+#EXTINF:-1 group-title="MÉXICO" tvg-id="658" tvg-name="ADN 40" tvg-logo="https://cdn.m3u.cl/logo/658_ADN_40.png", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="LuchaLibreAAA.us" tvg-logo="https://i.imgur.com/Nc7K060.png" group-title="PLUTO TV",Lucha Libre AAA
+https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="PLUTO TV"",Milenio Televisión
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="PLUTO TV",Imagen TV+
+https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Corazón
+https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Cuando los Ángeles Caen
+https://jmp2.uk/plu-699769fa19ac123965833fd3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",C4 en Alerta
 https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Archivos Extraterrestres
+#EXTINF:-1 tvg-id="PlutoTVMinutoParaGanar.us" tvg-logo="https://i.imgur.com/go5o1gB.png" group-title="PLUTO TV",Minuto Para Ganar
+https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Casos de la Dra. Polo
+https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Wipe Out
+https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
+#EXTINF:-1 tvg-id="PlutoTVWipeout.us" tvg-logo="https://i.imgur.com/KVTNBFr.png" group-title="PLUTO TV",Wipe Out UK
+https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="PLUTO TV",Fail Army International
+https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",America's Funniest Home Videos
+https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Bromas Gags Just for Laughs
+https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",LOL Just For Laughs
+https://jmp2.uk/plu-65d7211d0d45610008ffcf92.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Archivos Extraterrestres
 https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
 #EXTINF:-1 tvg-id="ArchivosForenses.us" tvg-logo="https://i.imgur.com/Pxrl9Ug.png" group-title="Documentary",Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",America's Funniest Home Videos
-https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Best of MTV
-https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Best of MTV
-https://jmp2.uk/plu-632afc466699570007ed1106.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Best of MTV
-https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bob Esponja Pantalones Cuadrados (720p)
-https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bromas Gags Just for Laughs (720p)
-https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Captain Tsubasa
-https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Casos de la Dra. Polo
-https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedy Central
-https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Comedy Central
-https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="Comedy",Comedy Central Animation
-https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD" tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="Comedy",Comedy Central en español
-https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central Latin America (1080p)
-http://181.119.93.83:8000/play/a1di/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Corazón (720p)
-https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cuando los Ángeles Caen
-https://jmp2.uk/plu-699769fa19ac123965833fd3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Doraemon
-https://jmp2.uk/plu-68b17414c23bb80b3c1d5bb5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dragon Ball
-https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dragon Ball Z
-https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drake & Josh
-https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Estado Paranormal
-https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Everybody Hates Chris
-https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Everybody Hates Chris
-https://jmp2.uk/plu-697b5a6c9567bf7b5f71a350.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Everybody Hates Chris
-https://jmp2.uk/plu-697b5be36dc3c71eb14d728a.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",Failarmy International (720p)
-https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hechiceras
-https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hechizada
-https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Heidi
-https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hey Arnold!
-https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="General",Imagen TV+ (720p)
-https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKenanyKel.us" tvg-logo="https://i.imgur.com/9PAY5Xz.png" group-title="Comedy",Kenan y Kel
-https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Little House on the Prairie (720p)
-https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",LOL Just For Laughs (720p)
-https://jmp2.uk/plu-65d7211d0d45610008ffcf92.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Los caballeros del Zodiaco
-https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Los Padrinos Mágicos
-https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
-#EXTINF:-1 tvg-id="LuchaLibreAAA.us" tvg-logo="https://i.imgur.com/Nc7K060.png" group-title="Sports",Lucha Libre AAA
-https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mi Bella Genio
-https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
-#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="News",Milenio Televisión (720p)
-https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMinutoParaGanar.us" tvg-logo="https://i.imgur.com/go5o1gB.png" group-title="Series",Minuto Para Ganar
-https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMisteriosMedicos.us" tvg-logo="https://i.imgur.com/1WDFKF0.png" group-title="Series",Misterios Medicos
+#EXTINF:-1 tvg-id="PlutoTVMisteriosMedicos.us" tvg-logo="https://i.imgur.com/1WDFKF0.png" group-title="PLUTO TV",Misterios Medicos
 https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
-#EXTINF:-1 tvg-id="Misteriossinresolver.us" tvg-logo="https://i.imgur.com/8mnvubb.png" group-title="Series",Misterios sin Resolver
+#EXTINF:-1 tvg-id="Misteriossinresolver.us" tvg-logo="https://i.imgur.com/8mnvubb.png" group-title="PLUTO TV",Misterios sin Resolver
 https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
-#EXTINF:-1 tvg-id="MTVClassic.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/MTV_Classic_2021.svg" group-title="Music",MTV Classic (720p)
-https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV CLASSICS
-https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
-#EXTINF:-1 tvg-id="MTVenEspanol.us@SD" tvg-logo="https://i.imgur.com/vQWWfyW.png" group-title="Entertainment",MTV en español
-https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Flow Latino (720p)
-https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Flow Latino (720p)
-https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
-#EXTINF:-1 tvg-id="MTVPlutoTV.us@Brazil" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Entertainment",MTV Pluto TV
-https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
-#EXTINF:-1 tvg-id="MTVRidiculousness.us" tvg-logo="https://i.imgur.com/GIKkbjT.png" group-title="Entertainment",MTV Ridiculousness (720p)
-https://jmp2.uk/plu-68641eb4852dfe78698c3390.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Rocks
-https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MTV Rocks
-https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nickelodeon Clásico (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Estado Paranormal
+https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Bob Esponja
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Hey Arnold!
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Los Padrinos Mágicos
+https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Nickelodeon Clásico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 tvg-id="NickenEspanol.us@SD" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Kids",Nickelodeon en español
+#EXTINF:-1 tvg-id="NickenEspanol.us@SD" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Kids",Nickelodeon
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nickelodeon Toons (720p)
-https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nickelodeon Toons (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Nickelodeon Toons
 https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nickelodeon Toons
-https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NOW 70's (720p)
-https://jmp2.uk/plu-64c37e710e086a0009e824ab.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Now 80's (720p)
-https://jmp2.uk/plu-6490254fd2c47c00083a5743.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVAnime.us@LATAM" tvg-logo="https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png" group-title="Animation",Pluto TV Anime
-https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pokémon en español
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Pokémon en español
 https://jmp2.uk/plu-69e6be40fde57cd5ba562b29.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sabrina the Teenage Witch
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@LATAM" tvg-logo="https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png" group-title="PLUTO TV",Pluto TV Anime
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Captain Tsubasa
+https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKenanyKel.us" tvg-logo="https://i.imgur.com/9PAY5Xz.png" group-title="PLUTO TV",Kenan y Kel
+https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Hechiceras
+https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Hechizada
+https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Mi Bella Genio
+https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD" tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="PLUTO TV",Comedy Central
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="PLUTO TV",Comedy Central Latin America
+http://181.119.93.83:8000/play/a1di/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Comedy Central
+https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="PLUTO TV",Comedy Central Animation
+https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Everybody Hates Chris
+https://jmp2.uk/plu-697b5a6c9567bf7b5f71a350.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Everybody Hates Chris
+https://jmp2.uk/plu-697b5be36dc3c71eb14d728a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Little House on the Prairie
+https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Sabrina the Teenage Witch
 https://jmp2.uk/plu-6512ecf63a0d700008db506a.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sabrina the Teenage Witch
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Sabrina the Teenage Witch
 https://jmp2.uk/plu-6512d3c96a84140008513ff5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sabrina the Teenage Witch
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Sabrina the Teenage Witch
 https://jmp2.uk/plu-6512d72b473a540008592be5.m3u8
-#EXTINF:-1 tvg-id="Thats70s.uk" tvg-logo="https://i.imgur.com/j2q53JQ.png" group-title="Music",That's 70s
+
+
+
+
+#EXTINF:-1 tvg-id="MTVClassic.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/MTV_Classic_2021.svg" group-title="MUSICA",MTV Classic
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",MTV Flow Latino
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+#EXTINF:-1 tvg-id="MTVPlutoTV.us@Brazil" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="MUSICA",MTV Pluto TV
+https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
+#EXTINF:-1 tvg-id="MTVRidiculousness.us" tvg-logo="https://i.imgur.com/GIKkbjT.png" group-title="MUSICA",MTV Ridiculousness
+https://jmp2.uk/plu-68641eb4852dfe78698c3390.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",MTV Rocks
+https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",MTV Rocks Classics
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Now 70's
+https://jmp2.uk/plu-64c37e710e086a0009e824ab.m3u8
+#EXTINF:-1 tvg-id="Thats70s.uk" tvg-logo="https://i.imgur.com/j2q53JQ.png" group-title="MUSICA",That's 70s
 https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
-#EXTINF:-1 tvg-id="Thats80s.uk" tvg-logo="https://i.imgur.com/TdKuz1m.png" group-title="Music",That's 80s
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Now 80's
+https://jmp2.uk/plu-6490254fd2c47c00083a5743.m3u8
+#EXTINF:-1 tvg-id="Thats80s.uk" tvg-logo="https://i.imgur.com/TdKuz1m.png" group-title="MUSICA",That's 80s
 https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",That's 90s/00s
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",That's 90s/00s
 https://jmp2.uk/plu-69ef55c3b80e144b55d74e36.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",That's Rock
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",That's Rock
 https://jmp2.uk/plu-69ef5682980899a9edf1a884.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wipe Out
-https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWipeout.us" tvg-logo="https://i.imgur.com/KVTNBFr.png" group-title="Series",Wipeout
-https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="MUSICA" tvg-id="1291" tvg-name="Voice Over Radio TV" tvg-logo="https://cdn.m3u.cl/logo/1291_Voice_Over_Radio_TV.png", Voice Over Radio TV
 https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="773" tvg-name="Canal 5 Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/773_Canal_5_Santa_Fe.png", Canal 5 Santa Fe Argentina
