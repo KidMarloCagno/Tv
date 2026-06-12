@@ -4,7 +4,7 @@
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
+#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MÉXICO",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.teleon.tv/180_webp/azteca-uno-menos-1-mx.webp" group-title="MÉXICO", Azteca Uno (-1h)
@@ -120,7 +120,7 @@ https://jmp2.uk/plu-65d7211d0d45610008ffcf92.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Archivos Extraterrestres
 https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
-#EXTINF:-1 tvg-id="ArchivosForenses.us" tvg-logo="https://i.imgur.com/Pxrl9Ug.png" group-title="Documentary",Archivos Forenses
+#EXTINF:-1 tvg-id="ArchivosForenses.us" tvg-logo="https://i.imgur.com/Pxrl9Ug.png" group-title="PLUTO TV",Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMisteriosMedicos.us" tvg-logo="https://i.imgur.com/1WDFKF0.png" group-title="PLUTO TV",Misterios Medicos
 https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
@@ -138,7 +138,7 @@ https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Nickelodeon Clásico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:-1 tvg-id="NickenEspanol.us@SD" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="NickenEspanol.us@SD" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="PLUTO TV",Nickelodeon
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Nickelodeon Toons
 https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
