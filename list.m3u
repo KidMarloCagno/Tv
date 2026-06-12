@@ -56,6 +56,8 @@ https://ythls.armelin.one/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
 
 #EXTINF:-1 tvg-id="Canal1.mx" tvg-name="Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Once_TV_Mexico_2019.svg/500px-Once_TV_Mexico_2019.svg.png" group-title="MÉXICO",Canal 11
 https://d24sa4vr9gvjv.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="Canal1.mx" tvg-name="Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Once_TV_Mexico_2019.svg/500px-Once_TV_Mexico_2019.svg.png" group-title="MÉXICO",Canal 11
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="MÉXICO",Canal 14
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
