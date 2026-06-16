@@ -56,7 +56,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/upygmu80yh8z/7hlsu6FzRsGkArSgHj6bu/ffe4663f174bc19220d98f998872148d/Heraldo_tv.png" group-title="MÉXICO", Heraldo Televisión
-https://cdndirector.dailymotion.com/cdn/live/video/x88epch.m3u8?sec=4IpgdZTgKEW_dXLSj44klJApxCm00IUkDtAegH-_GbIXQv6QVzzOpa4OQkTtlW44ugdvYLlrSGZc4M5s5BZiww&dmTs=482426&dmV1st=1D9B35D2F80B17CE08C23C56C537EED7
+https://cdndirector.dailymotion.com/cdn/live/video/x88epch.m3u8?sec=y2BRH3fccoF33nYJfAr7XnE5AU2OsoPxirOXcAhZVx4zfo_eJlD0LmQ-UF9VlKS-xcuRgSgPWUFlJ5qcNTtDgA&dmTs=238876&dmV1st=2CBFFAA41B07BA0D62023E45E1A0EC9D
 
 #EXTINF:-1 tvg-id="Canal1.mx" tvg-name="Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Once_TV_Mexico_2019.svg/500px-Once_TV_Mexico_2019.svg.png" group-title="MÉXICO",Canal 11
 https://s5.mexside.net:1936/stream/stream/playlist.m3u8
