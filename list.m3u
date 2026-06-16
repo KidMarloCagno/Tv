@@ -122,9 +122,12 @@ https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
 https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
 #EXTINF:-1 tvg-id="Misteriossinresolver.us" tvg-logo="https://i.imgur.com/8mnvubb.png" group-title="PLUTO TV",Misterios sin Resolver
 https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Estado Paranormal
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ApN6nfw.png" group-title="PLUTO TV",Estado Paranormal
 https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
-
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us@UK" tvg-logo="https://i.imgur.com/ApN6nfw.png" group-title="Documentary",Pluto TV Paranormal
+https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us" tvg-logo="https://i.imgur.com/ApN6nfw.png" group-title="Documentary",Pluto TV Paranormal
+https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Bob Esponja
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
