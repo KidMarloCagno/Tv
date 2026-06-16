@@ -19,6 +19,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 
+#EXTINF:-1 channel-id="US2200005Y2" tvg-id="US2200005Y2" tvg-chno="3920" tvg-name="Canal ViX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20241112T001006SQUARE.png" group-title="Latino",Canal ViX
+https://jmp2.uk/stvp-US2200005Y2
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/imagen-television-hz-mx.png" group-title="MÉXICO" , Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
@@ -70,6 +74,9 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="MÉXICO",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+
+#EXTINF:-1 channel-id="USBD2700005KL" tvg-id="USBD2700005KL" tvg-chno="3970" tvg-name="Cine de Oro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20241228T011503SQUARE.png" group-title="MÉXICO",Cine de Oro
+https://jmp2.uk/stvp-USBD2700005KL
 
 #EXTINF:-1 group-title="MÉXICO" tvg-id="652" tvg-name="Mexiquense TV"  tvg-logo="https://cdn.m3u.cl/logo/652_Mexiquense_TV.png", Mexiquense TV
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
@@ -129,6 +136,13 @@ https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
 https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ApN6nfw.png" group-title="PLUTO TV",Estado Paranormal
 https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
+
+#EXTINF:-1 channel-id="US2200001IY" tvg-id="US2200001IY" tvg-chno="3878" tvg-name="Curiosity Animales" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200001IY_20240910T003736SQUARE.png" group-title="PLUTO TV",Curiosity Animales
+https://jmp2.uk/stvp-US2200001IY
+#EXTINF:-1 channel-id="US22000020U" tvg-id="US22000020U" tvg-chno="3880" tvg-name="Curiosity Explora" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US22000020U_20241217T202304SQUARE.png" group-title="PLUTO TV",Curiosity Explora
+https://jmp2.uk/stvp-US22000020U
+#EXTINF:-1 channel-id="US2200003ZN" tvg-id="US2200003ZN" tvg-chno="3873" tvg-name="Curiosity Motores" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200003ZN_20240910T003743SQUARE.png" group-title="PLUTO TV",Curiosity Motores
+https://jmp2.uk/stvp-US2200003ZN
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Bob Esponja
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
@@ -204,6 +218,33 @@ https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
 https://jmp2.uk/plu-69ef55c3b80e144b55d74e36.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",That's Rock
 https://jmp2.uk/plu-69ef5682980899a9edf1a884.m3u8
+
+#EXTINF:-1 channel-id="USBB320000647" tvg-id="USBB320000647" tvg-chno="4318" tvg-name="XITE 80s Flashback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20250421T234923SQUARE.png" group-title="MUSICA",XITE 80s Flashback
+https://jmp2.uk/stvp-USBB320000647
+#EXTINF:-1 channel-id="USBB3200007AK" tvg-id="USBB3200007AK" tvg-chno="4319" tvg-name="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20250421T234926SQUARE.png" group-title="MUSICA",XITE 90s Throwback
+https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1 channel-id="USBD3300011UT" tvg-id="USBD3300011UT" tvg-chno="4333" tvg-name="XITE Classic Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="MUSICA",XITE Classic Country
+https://jmp2.uk/stvp-USBD3300011UT
+#EXTINF:-1 channel-id="USBD3300006O3" tvg-id="USBD3300006O3" tvg-chno="4328" tvg-name="XITE Country Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png" group-title="MUSICA",XITE Country Today
+https://jmp2.uk/stvp-USBD3300006O3
+#EXTINF:-1 channel-id="USBD350003932" tvg-id="USBD350003932" tvg-chno="4323" tvg-name="XITE Happy Holidays" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20251110T235031SQUARE.png" group-title="MUSICA",XITE Happy Holidays
+https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1 channel-id="USBD3300004RH" tvg-id="USBD3300004RH" tvg-chno="4316" tvg-name="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png" group-title="MUSICA",XITE Hits
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1 channel-id="USBB2300003JZ" tvg-id="USBB2300003JZ" tvg-chno="4363" tvg-name="XITE Just Chill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" group-title="MUSICA",XITE Just Chill
+https://jmp2.uk/stvp-USBB2300003JZ
+#EXTINF:-1 channel-id="USBD330000948" tvg-id="USBD330000948" tvg-chno="4348" tvg-name="XITE R&B Classic Jams" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240716T002648SQUARE.png" group-title="MUSICA",XITE R&B Classic Jams
+https://jmp2.uk/stvp-USBD330000948
+#EXTINF:-1 channel-id="US4600008JA" tvg-id="US4600008JA" tvg-chno="4350" tvg-name="XITE Reggae Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600008JA_20250204T014325SQUARE.png" group-title="MUSICA",XITE Reggae Vibes
+https://jmp2.uk/stvp-US4600008JA
+#EXTINF:-1 channel-id="USBB2300004KV" tvg-id="USBB2300004KV" tvg-chno="4353" tvg-name="XITE Rock x Metal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="MUSICA",XITE Rock x Metal
+https://jmp2.uk/stvp-USBB2300004KV
+#EXTINF:-1 channel-id="USBD3300010L9" tvg-id="USBD3300010L9" tvg-chno="4343" tvg-name="XITE Siempre Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240924T011040SQUARE.png" group-title="MUSICA",XITE Siempre Latino
+https://jmp2.uk/stvp-USBD3300010L9
+#EXTINF:-1 channel-id="USBD3300007PB" tvg-id="USBD3300007PB" tvg-chno="4338" tvg-name="XITE Nuevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20241203T004813SQUARE.png" group-title="MUSICA",XITE Nuevo Latino
+https://jmp2.uk/stvp-USBD3300007PB
+
+
 #EXTINF:-1 group-title="MUSICA" tvg-id="1291" tvg-name="Voice Over Radio TV" tvg-logo="https://cdn.m3u.cl/logo/1291_Voice_Over_Radio_TV.png", Voice Over Radio TV
 https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="773" tvg-name="Canal 5 Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/773_Canal_5_Santa_Fe.png", Canal 5 Santa Fe Argentina
