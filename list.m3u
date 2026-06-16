@@ -93,7 +93,7 @@ https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="PLUTO TV",Corazón
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Cuando los Ángeles Caen
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/2a03ad/pluto/1366_2000.jpg" group-title="PLUTO TV",Cuando los Ángeles Caen
 https://jmp2.uk/plu-699769fa19ac123965833fd3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",C4 en Alerta
 https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
@@ -102,10 +102,8 @@ https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Casos de la Dra. Polo
 https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",Wipe Out
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KVTNBFr.png" group-title="PLUTO TV",Wipe Out
 https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWipeout.us" tvg-logo="https://i.imgur.com/KVTNBFr.png" group-title="PLUTO TV",Wipe Out UK
-https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="PLUTO TV",Fail Army International
 https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="PLUTO TV",America's Funniest Home Videos
