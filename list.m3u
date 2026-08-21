@@ -97,7 +97,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="LuchaLibreAAA.us" tvg-logo="https://i.imgur.com/Nc7K060.png" group-title="PLUTO TV",Lucha Libre AAA
 https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
-#EXTINF:-1 channel-id="635177ecff6cd5445d7f9b0b-606605549dbfca002d2ae873" tvg-id="635177ecff6cd5445d7f9b0b-606605549dbfca002d2ae873" tvg-chno="" tvg-name="TNA Wrestling Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="PLUTO TV",TNA Wrestling Channel#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="PLUTO TV"",Milenio Televisión
+#EXTINF:-1 channel-id="635177ecff6cd5445d7f9b0b-606605549dbfca002d2ae873" tvg-id="635177ecff6cd5445d7f9b0b-606605549dbfca002d2ae873" tvg-chno="" tvg-name="TNA Wrestling Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="PLUTO TV",TNA Wrestling Channel
+https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-606605549dbfca002d2ae873/?X-Plex-Token=5vuYMRy35a9bB_naJKuy#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="PLUTO TV"",Milenio Televisión
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="PLUTO TV",Imagen TV+
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
