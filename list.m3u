@@ -75,10 +75,12 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://www.capital21.cdmx.gob.mx/favicon1.png" group-title="MÉXICO",Capital 21
-https://s5.mexside.net:1936/respaldo/respaldo/chunklist_w390601932.m3u8
+https://stream.streamblue.com.mx/live/canal21/index.m3u8
 
 #EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22.1" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-22-logo.png" group-title="MÉXICO",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22.1" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-22-logo.png" group-title="MÉXICO",Canal 22 Roku
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w432012015.m3u8
 
 #EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="MÉXICO",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
