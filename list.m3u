@@ -21,6 +21,14 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 channel-id="US2200005Y2" tvg-id="US2200005Y2" tvg-chno="3920" tvg-name="Canal ViX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20241112T001006SQUARE.png" group-title="MÉXICO",Canal ViX
 https://jmp2.uk/stvp-US2200005Y2
+#EXTINF:-1 channel-id="USBC2100012EJ-us" tvg-id="USBC2100012EJ" tvg-chno="3940" tvg-name="ViX Grandes Parejas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100012EJ_20260421T142342SQUARE.png" group-title="MÉXICO",ViX Grandes Parejas
+https://jmp2.uk/stvp-USBC2100012EJ
+#EXTINF:-1 channel-id="USBC2100010OS-us" tvg-id="USBC2100010OS" tvg-chno="3950" tvg-name="ViX JaJaJa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20260421T142346SQUARE.png" group-title="MÉXICO",ViX JaJaJa
+https://jmp2.uk/stvp-USBC2100010OS
+#EXTINF:-1 channel-id="USBB44000099N-us" tvg-id="USBB44000099N" tvg-chno="3930" tvg-name="ViX Novelas de romance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20260421T141646SQUARE.png" group-title="MÉXICO",ViX Novelas de romance
+https://jmp2.uk/stvp-USBB44000099N
+#EXTINF:-1 channel-id="USBC2100011WI-us" tvg-id="USBC2100011WI" tvg-chno="3945" tvg-name="ViX Villanos de Novela" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20260421T142351SQUARE.png" group-title="MÉXICO",ViX Villanos de Novela
+https://jmp2.uk/stvp-USBC2100011WI
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/mexico/imagen-television-hz-mx.png" group-title="MÉXICO" , Imagen TV
@@ -96,20 +104,11 @@ https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
-#EXTINF:-1 channel-id="US2200005Y2-us" tvg-id="US2200005Y2" tvg-chno="3920" tvg-name="Canal ViX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20260421T142129SQUARE.png" group-title="MÉXICO",Canal ViX
-https://jmp2.uk/stvp-US2200005Y2
-#EXTINF:-1 channel-id="USBC2100012EJ-us" tvg-id="USBC2100012EJ" tvg-chno="3940" tvg-name="ViX Grandes Parejas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100012EJ_20260421T142342SQUARE.png" group-title="MÉXICO",ViX Grandes Parejas
-https://jmp2.uk/stvp-USBC2100012EJ
-#EXTINF:-1 channel-id="USBC2100010OS-us" tvg-id="USBC2100010OS" tvg-chno="3950" tvg-name="ViX JaJaJa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20260421T142346SQUARE.png" group-title="MÉXICO",ViX JaJaJa
-https://jmp2.uk/stvp-USBC2100010OS
-#EXTINF:-1 channel-id="USBB44000099N-us" tvg-id="USBB44000099N" tvg-chno="3930" tvg-name="ViX Novelas de romance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20260421T141646SQUARE.png" group-title="MÉXICO",ViX Novelas de romance
-https://jmp2.uk/stvp-USBB44000099N
-#EXTINF:-1 channel-id="USBC2100011WI-us" tvg-id="USBC2100011WI" tvg-chno="3945" tvg-name="ViX Villanos de Novela" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20260421T142351SQUARE.png" group-title="MÉXICO",ViX Villanos de Novela
-
 #EXTINF:-1 tvg-id="LuchaLibreAAA.us" tvg-logo="https://i.imgur.com/Nc7K060.png" group-title="PLUTO TV",Lucha Libre AAA
 https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
 #EXTINF:-1 channel-id="635177ecff6cd5445d7f9b0b-606605549dbfca002d2ae873" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="PLUTO TV",TNA Wrestling Channel
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-606605549dbfca002d2ae873/?X-Plex-Token=5vuYMRy35a9bB_naJKuy#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="PLUTO TV"",Milenio Televisión
+https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-606605549dbfca002d2ae873/?X-Plex-Token=5vuYMRy35a9bB_naJKuy
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="PLUTO TV"",Milenio Televisión
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="PLUTO TV",Imagen TV+
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
